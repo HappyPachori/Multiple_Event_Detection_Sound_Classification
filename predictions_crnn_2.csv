@@ -1,0 +1,2501 @@
+,fileid,predicted_labels
+0,melspec_0.npy,['Speech']
+1,melspec_1.npy,"['Dishes', 'Running_water', 'Speech']"
+2,melspec_10.npy,['Speech']
+3,melspec_100.npy,['Speech']
+4,melspec_1000.npy,"['Dishes', 'Speech']"
+5,melspec_1001.npy,"['Blender', 'Speech']"
+6,melspec_1002.npy,"['Dishes', 'Frying', 'Speech']"
+7,melspec_1003.npy,"['Dishes', 'Frying', 'Speech']"
+8,melspec_1004.npy,"['Dishes', 'Running_water', 'Speech']"
+9,melspec_1005.npy,"['Running_water', 'Speech']"
+10,melspec_1006.npy,['Speech']
+11,melspec_1007.npy,"['Running_water', 'Speech']"
+12,melspec_1008.npy,"['Dishes', 'Speech']"
+13,melspec_1009.npy,['Speech']
+14,melspec_101.npy,['Speech']
+15,melspec_1010.npy,"['Running_water', 'Speech']"
+16,melspec_1011.npy,['Speech']
+17,melspec_1012.npy,"['Blender', 'Dishes', 'Speech']"
+18,melspec_1013.npy,['Speech']
+19,melspec_1014.npy,"['Dishes', 'Speech']"
+20,melspec_1015.npy,['Speech']
+21,melspec_1016.npy,"['Running_water', 'Speech']"
+22,melspec_1017.npy,"['Dishes', 'Running_water', 'Speech']"
+23,melspec_1018.npy,"['Running_water', 'Speech']"
+24,melspec_1019.npy,['Speech']
+25,melspec_102.npy,['Speech']
+26,melspec_1020.npy,['Speech']
+27,melspec_1021.npy,['Speech']
+28,melspec_1022.npy,['Speech']
+29,melspec_1023.npy,['Speech']
+30,melspec_1024.npy,['Speech']
+31,melspec_1025.npy,"['Dishes', 'Speech']"
+32,melspec_1026.npy,"['Running_water', 'Speech']"
+33,melspec_1027.npy,"['Frying', 'Speech']"
+34,melspec_1028.npy,['Speech']
+35,melspec_1029.npy,['Speech']
+36,melspec_103.npy,"['Dishes', 'Frying', 'Speech']"
+37,melspec_1030.npy,['Speech']
+38,melspec_1031.npy,['Speech']
+39,melspec_1032.npy,['Speech']
+40,melspec_1033.npy,"['Running_water', 'Speech']"
+41,melspec_1034.npy,"['Running_water', 'Speech']"
+42,melspec_1035.npy,['Speech']
+43,melspec_1036.npy,['Speech']
+44,melspec_1037.npy,['Speech']
+45,melspec_1038.npy,"['Running_water', 'Speech']"
+46,melspec_1039.npy,['Speech']
+47,melspec_104.npy,['Speech']
+48,melspec_1040.npy,"['Running_water', 'Speech']"
+49,melspec_1041.npy,"['Dishes', 'Speech']"
+50,melspec_1042.npy,['Speech']
+51,melspec_1043.npy,"['Running_water', 'Speech']"
+52,melspec_1044.npy,"['Running_water', 'Speech']"
+53,melspec_1045.npy,['Speech']
+54,melspec_1046.npy,"['Blender', 'Speech']"
+55,melspec_1047.npy,"['Dishes', 'Speech']"
+56,melspec_1048.npy,"['Dishes', 'Speech']"
+57,melspec_1049.npy,['Speech']
+58,melspec_105.npy,"['Dishes', 'Speech']"
+59,melspec_1050.npy,['Speech']
+60,melspec_1051.npy,"['Dishes', 'Frying', 'Speech']"
+61,melspec_1052.npy,['Speech']
+62,melspec_1053.npy,['Speech']
+63,melspec_1054.npy,['Speech']
+64,melspec_1055.npy,"['Dishes', 'Speech']"
+65,melspec_1056.npy,"['Running_water', 'Speech']"
+66,melspec_1057.npy,"['Speech', 'Vacuum_cleaner']"
+67,melspec_1058.npy,['Speech']
+68,melspec_1059.npy,['Speech']
+69,melspec_106.npy,['Speech']
+70,melspec_1060.npy,"['Running_water', 'Speech']"
+71,melspec_1061.npy,"['Dishes', 'Speech']"
+72,melspec_1062.npy,['Speech']
+73,melspec_1063.npy,['Speech']
+74,melspec_1064.npy,"['Dishes', 'Speech']"
+75,melspec_1065.npy,"['Dishes', 'Running_water', 'Speech']"
+76,melspec_1066.npy,"['Running_water', 'Speech']"
+77,melspec_1067.npy,['Speech']
+78,melspec_1068.npy,"['Dishes', 'Speech']"
+79,melspec_1069.npy,"['Running_water', 'Speech']"
+80,melspec_107.npy,['Speech']
+81,melspec_1070.npy,"['Blender', 'Dishes', 'Speech']"
+82,melspec_1071.npy,"['Running_water', 'Speech']"
+83,melspec_1072.npy,['Speech']
+84,melspec_1073.npy,"['Dishes', 'Speech']"
+85,melspec_1074.npy,"['Running_water', 'Speech']"
+86,melspec_1075.npy,['Speech']
+87,melspec_1076.npy,['Speech']
+88,melspec_1077.npy,['Speech']
+89,melspec_1078.npy,['Speech']
+90,melspec_1079.npy,['Speech']
+91,melspec_108.npy,"['Frying', 'Speech']"
+92,melspec_1080.npy,['Speech']
+93,melspec_1081.npy,"['Dishes', 'Speech']"
+94,melspec_1082.npy,"['Frying', 'Speech']"
+95,melspec_1083.npy,"['Dishes', 'Speech']"
+96,melspec_1084.npy,"['Running_water', 'Speech']"
+97,melspec_1085.npy,"['Dishes', 'Speech']"
+98,melspec_1086.npy,"['Frying', 'Speech']"
+99,melspec_1087.npy,['Speech']
+100,melspec_1088.npy,['Speech']
+101,melspec_1089.npy,"['Dishes', 'Speech']"
+102,melspec_109.npy,"['Dishes', 'Frying', 'Speech']"
+103,melspec_1090.npy,"['Dishes', 'Frying', 'Speech']"
+104,melspec_1091.npy,"['Blender', 'Speech']"
+105,melspec_1092.npy,"['Dishes', 'Speech']"
+106,melspec_1093.npy,"['Dishes', 'Running_water', 'Speech']"
+107,melspec_1094.npy,"['Dishes', 'Speech']"
+108,melspec_1095.npy,['Speech']
+109,melspec_1096.npy,['Speech']
+110,melspec_1097.npy,['Speech']
+111,melspec_1098.npy,"['Dishes', 'Frying', 'Speech']"
+112,melspec_1099.npy,"['Dishes', 'Frying', 'Speech']"
+113,melspec_11.npy,['Speech']
+114,melspec_110.npy,['Speech']
+115,melspec_1100.npy,"['Running_water', 'Speech']"
+116,melspec_1101.npy,"['Running_water', 'Speech']"
+117,melspec_1102.npy,['Speech']
+118,melspec_1103.npy,"['Dishes', 'Frying', 'Speech']"
+119,melspec_1104.npy,"['Running_water', 'Speech']"
+120,melspec_1105.npy,['Speech']
+121,melspec_1106.npy,['Speech']
+122,melspec_1107.npy,"['Frying', 'Speech']"
+123,melspec_1108.npy,"['Frying', 'Speech']"
+124,melspec_1109.npy,"['Dishes', 'Speech']"
+125,melspec_111.npy,"['Running_water', 'Speech']"
+126,melspec_1110.npy,['Speech']
+127,melspec_1111.npy,"['Frying', 'Speech']"
+128,melspec_1112.npy,['Speech']
+129,melspec_1113.npy,['Speech']
+130,melspec_1114.npy,"['Running_water', 'Speech']"
+131,melspec_1115.npy,"['Blender', 'Running_water', 'Speech']"
+132,melspec_1116.npy,"['Dishes', 'Speech']"
+133,melspec_1117.npy,"['Running_water', 'Speech']"
+134,melspec_1118.npy,"['Dishes', 'Speech']"
+135,melspec_1119.npy,['Speech']
+136,melspec_112.npy,['Speech']
+137,melspec_1120.npy,"['Dishes', 'Speech']"
+138,melspec_1121.npy,['Speech']
+139,melspec_1122.npy,['Speech']
+140,melspec_1123.npy,['Speech']
+141,melspec_1124.npy,"['Frying', 'Speech']"
+142,melspec_1125.npy,['Speech']
+143,melspec_1126.npy,"['Blender', 'Speech']"
+144,melspec_1127.npy,['Speech']
+145,melspec_1128.npy,['Speech']
+146,melspec_1129.npy,['Speech']
+147,melspec_113.npy,"['Dishes', 'Speech']"
+148,melspec_1130.npy,"['Running_water', 'Speech']"
+149,melspec_1131.npy,"['Running_water', 'Speech']"
+150,melspec_1132.npy,"['Dishes', 'Running_water', 'Speech']"
+151,melspec_1133.npy,['Speech']
+152,melspec_1134.npy,"['Dishes', 'Speech']"
+153,melspec_1135.npy,['Speech']
+154,melspec_1136.npy,"['Running_water', 'Speech']"
+155,melspec_1137.npy,['Speech']
+156,melspec_1138.npy,['Speech']
+157,melspec_1139.npy,"['Running_water', 'Speech']"
+158,melspec_114.npy,"['Dishes', 'Frying', 'Speech']"
+159,melspec_1140.npy,['Speech']
+160,melspec_1141.npy,"['Running_water', 'Speech']"
+161,melspec_1142.npy,['Speech']
+162,melspec_1143.npy,['Speech']
+163,melspec_1144.npy,['Speech']
+164,melspec_1145.npy,"['Dishes', 'Frying', 'Speech']"
+165,melspec_1146.npy,['Speech']
+166,melspec_1147.npy,['Speech']
+167,melspec_1148.npy,['Speech']
+168,melspec_1149.npy,"['Frying', 'Speech']"
+169,melspec_115.npy,['Speech']
+170,melspec_1150.npy,"['Frying', 'Speech']"
+171,melspec_1151.npy,"['Frying', 'Speech']"
+172,melspec_1152.npy,['Speech']
+173,melspec_1153.npy,"['Frying', 'Speech']"
+174,melspec_1154.npy,"['Frying', 'Speech']"
+175,melspec_1155.npy,"['Dishes', 'Running_water', 'Speech']"
+176,melspec_1156.npy,['Speech']
+177,melspec_1157.npy,"['Running_water', 'Speech']"
+178,melspec_1158.npy,"['Running_water', 'Speech']"
+179,melspec_1159.npy,"['Speech', 'Vacuum_cleaner']"
+180,melspec_116.npy,"['Running_water', 'Speech']"
+181,melspec_1160.npy,['Speech']
+182,melspec_1161.npy,"['Running_water', 'Speech']"
+183,melspec_1162.npy,['Speech']
+184,melspec_1163.npy,"['Frying', 'Speech']"
+185,melspec_1164.npy,"['Running_water', 'Speech']"
+186,melspec_1165.npy,['Speech']
+187,melspec_1166.npy,"['Running_water', 'Speech']"
+188,melspec_1167.npy,['Speech']
+189,melspec_1168.npy,"['Frying', 'Speech']"
+190,melspec_1169.npy,['Speech']
+191,melspec_117.npy,"['Dishes', 'Speech']"
+192,melspec_1170.npy,"['Blender', 'Running_water', 'Speech']"
+193,melspec_1171.npy,"['Frying', 'Speech']"
+194,melspec_1172.npy,['Speech']
+195,melspec_1173.npy,"['Frying', 'Speech']"
+196,melspec_1174.npy,['Speech']
+197,melspec_1175.npy,"['Speech', 'Vacuum_cleaner']"
+198,melspec_1176.npy,"['Dishes', 'Speech']"
+199,melspec_1177.npy,"['Running_water', 'Speech']"
+200,melspec_1178.npy,"['Running_water', 'Speech']"
+201,melspec_1179.npy,"['Dishes', 'Speech']"
+202,melspec_118.npy,"['Frying', 'Speech']"
+203,melspec_1180.npy,['Speech']
+204,melspec_1181.npy,"['Dishes', 'Speech']"
+205,melspec_1182.npy,['Speech']
+206,melspec_1183.npy,['Speech']
+207,melspec_1184.npy,"['Frying', 'Speech']"
+208,melspec_1185.npy,['Speech']
+209,melspec_1186.npy,"['Running_water', 'Speech']"
+210,melspec_1187.npy,['Speech']
+211,melspec_1188.npy,['Speech']
+212,melspec_1189.npy,"['Dishes', 'Speech']"
+213,melspec_119.npy,"['Frying', 'Speech']"
+214,melspec_1190.npy,['Speech']
+215,melspec_1191.npy,"['Speech', 'Vacuum_cleaner']"
+216,melspec_1192.npy,"['Frying', 'Speech']"
+217,melspec_1193.npy,['Speech']
+218,melspec_1194.npy,"['Running_water', 'Speech']"
+219,melspec_1195.npy,['Speech']
+220,melspec_1196.npy,"['Running_water', 'Speech']"
+221,melspec_1197.npy,"['Running_water', 'Speech']"
+222,melspec_1198.npy,['Speech']
+223,melspec_1199.npy,"['Dishes', 'Speech']"
+224,melspec_12.npy,"['Dishes', 'Frying', 'Speech']"
+225,melspec_120.npy,"['Frying', 'Speech']"
+226,melspec_1200.npy,"['Dishes', 'Speech']"
+227,melspec_1201.npy,"['Dishes', 'Frying', 'Speech']"
+228,melspec_1202.npy,"['Running_water', 'Speech']"
+229,melspec_1203.npy,['Speech']
+230,melspec_1204.npy,"['Frying', 'Speech']"
+231,melspec_1205.npy,['Speech']
+232,melspec_1206.npy,"['Frying', 'Speech']"
+233,melspec_1207.npy,"['Dishes', 'Frying', 'Speech']"
+234,melspec_1208.npy,['Speech']
+235,melspec_1209.npy,"['Dishes', 'Frying', 'Speech']"
+236,melspec_121.npy,['Speech']
+237,melspec_1210.npy,"['Blender', 'Running_water', 'Speech']"
+238,melspec_1211.npy,['Speech']
+239,melspec_1212.npy,"['Blender', 'Speech']"
+240,melspec_1213.npy,"['Blender', 'Speech']"
+241,melspec_1214.npy,"['Running_water', 'Speech']"
+242,melspec_1215.npy,['Speech']
+243,melspec_1216.npy,"['Dishes', 'Speech']"
+244,melspec_1217.npy,['Speech']
+245,melspec_1218.npy,"['Dishes', 'Speech']"
+246,melspec_1219.npy,"['Blender', 'Running_water', 'Speech']"
+247,melspec_122.npy,"['Dishes', 'Frying', 'Speech']"
+248,melspec_1220.npy,['Speech']
+249,melspec_1221.npy,"['Dishes', 'Running_water', 'Speech']"
+250,melspec_1222.npy,"['Dishes', 'Speech']"
+251,melspec_1223.npy,['Speech']
+252,melspec_1224.npy,['Speech']
+253,melspec_1225.npy,"['Running_water', 'Speech']"
+254,melspec_1226.npy,"['Frying', 'Speech']"
+255,melspec_1227.npy,"['Running_water', 'Speech']"
+256,melspec_1228.npy,['Speech']
+257,melspec_1229.npy,"['Dishes', 'Speech']"
+258,melspec_123.npy,['Speech']
+259,melspec_1230.npy,"['Frying', 'Speech']"
+260,melspec_1231.npy,"['Blender', 'Speech']"
+261,melspec_1232.npy,"['Frying', 'Speech']"
+262,melspec_1233.npy,['Speech']
+263,melspec_1234.npy,['Speech']
+264,melspec_1235.npy,['Speech']
+265,melspec_1236.npy,['Speech']
+266,melspec_1237.npy,"['Dishes', 'Speech']"
+267,melspec_1238.npy,['Speech']
+268,melspec_1239.npy,"['Running_water', 'Speech']"
+269,melspec_124.npy,"['Dishes', 'Electric_shaver_toothbrush', 'Frying', 'Running_water', 'Speech']"
+270,melspec_1240.npy,"['Running_water', 'Speech']"
+271,melspec_1241.npy,"['Dishes', 'Speech']"
+272,melspec_1242.npy,"['Dishes', 'Speech']"
+273,melspec_1243.npy,['Speech']
+274,melspec_1244.npy,"['Dishes', 'Speech']"
+275,melspec_1245.npy,"['Dishes', 'Speech']"
+276,melspec_1246.npy,"['Dishes', 'Running_water', 'Speech']"
+277,melspec_1247.npy,"['Running_water', 'Speech']"
+278,melspec_1248.npy,['Speech']
+279,melspec_1249.npy,"['Dishes', 'Speech']"
+280,melspec_125.npy,['Speech']
+281,melspec_1250.npy,"['Running_water', 'Speech']"
+282,melspec_1251.npy,['Speech']
+283,melspec_1252.npy,"['Blender', 'Running_water', 'Speech']"
+284,melspec_1253.npy,"['Dishes', 'Speech']"
+285,melspec_1254.npy,"['Dishes', 'Running_water', 'Speech']"
+286,melspec_1255.npy,"['Frying', 'Speech']"
+287,melspec_1256.npy,['Speech']
+288,melspec_1257.npy,"['Frying', 'Speech']"
+289,melspec_1258.npy,['Speech']
+290,melspec_1259.npy,['Speech']
+291,melspec_126.npy,['Speech']
+292,melspec_1260.npy,"['Running_water', 'Speech']"
+293,melspec_1261.npy,"['Dishes', 'Speech']"
+294,melspec_1262.npy,['Speech']
+295,melspec_1263.npy,"['Dishes', 'Speech']"
+296,melspec_1264.npy,"['Running_water', 'Speech']"
+297,melspec_1265.npy,"['Running_water', 'Speech']"
+298,melspec_1266.npy,['Speech']
+299,melspec_1267.npy,"['Dishes', 'Frying', 'Speech']"
+300,melspec_1268.npy,"['Running_water', 'Speech']"
+301,melspec_1269.npy,['Speech']
+302,melspec_127.npy,"['Running_water', 'Speech']"
+303,melspec_1270.npy,['Speech']
+304,melspec_1271.npy,"['Running_water', 'Speech']"
+305,melspec_1272.npy,['Speech']
+306,melspec_1273.npy,['Speech']
+307,melspec_1274.npy,['Speech']
+308,melspec_1275.npy,['Speech']
+309,melspec_1276.npy,"['Dishes', 'Speech']"
+310,melspec_1277.npy,"['Blender', 'Speech']"
+311,melspec_1278.npy,"['Frying', 'Speech']"
+312,melspec_1279.npy,"['Frying', 'Speech']"
+313,melspec_128.npy,['Speech']
+314,melspec_1280.npy,"['Running_water', 'Speech']"
+315,melspec_1281.npy,"['Dishes', 'Speech']"
+316,melspec_1282.npy,['Speech']
+317,melspec_1283.npy,"['Frying', 'Speech']"
+318,melspec_1284.npy,"['Dishes', 'Frying', 'Speech']"
+319,melspec_1285.npy,"['Running_water', 'Speech']"
+320,melspec_1286.npy,"['Running_water', 'Speech']"
+321,melspec_1287.npy,['Speech']
+322,melspec_1288.npy,['Speech']
+323,melspec_1289.npy,"['Dishes', 'Frying', 'Speech']"
+324,melspec_129.npy,['Speech']
+325,melspec_1290.npy,"['Frying', 'Speech']"
+326,melspec_1291.npy,"['Dishes', 'Speech']"
+327,melspec_1292.npy,"['Dishes', 'Speech']"
+328,melspec_1293.npy,"['Running_water', 'Speech']"
+329,melspec_1294.npy,['Speech']
+330,melspec_1295.npy,['Speech']
+331,melspec_1296.npy,"['Dishes', 'Running_water', 'Speech']"
+332,melspec_1297.npy,"['Dishes', 'Speech']"
+333,melspec_1298.npy,['Speech']
+334,melspec_1299.npy,"['Dishes', 'Frying', 'Speech']"
+335,melspec_13.npy,['Speech']
+336,melspec_130.npy,"['Dishes', 'Speech']"
+337,melspec_1300.npy,"['Frying', 'Speech']"
+338,melspec_1301.npy,"['Dishes', 'Speech']"
+339,melspec_1302.npy,['Speech']
+340,melspec_1303.npy,['Speech']
+341,melspec_1304.npy,"['Dishes', 'Running_water', 'Speech']"
+342,melspec_1305.npy,"['Blender', 'Speech']"
+343,melspec_1306.npy,"['Running_water', 'Speech']"
+344,melspec_1307.npy,['Speech']
+345,melspec_1308.npy,"['Frying', 'Speech']"
+346,melspec_1309.npy,"['Frying', 'Speech']"
+347,melspec_131.npy,['Speech']
+348,melspec_1310.npy,['Speech']
+349,melspec_1311.npy,['Speech']
+350,melspec_1312.npy,['Speech']
+351,melspec_1313.npy,"['Dishes', 'Speech']"
+352,melspec_1314.npy,"['Dishes', 'Speech']"
+353,melspec_1315.npy,['Speech']
+354,melspec_1316.npy,['Speech']
+355,melspec_1317.npy,['Speech']
+356,melspec_1318.npy,"['Frying', 'Speech']"
+357,melspec_1319.npy,['Speech']
+358,melspec_132.npy,"['Dishes', 'Speech']"
+359,melspec_1320.npy,"['Running_water', 'Speech']"
+360,melspec_1321.npy,"['Running_water', 'Speech']"
+361,melspec_1322.npy,['Speech']
+362,melspec_1323.npy,"['Frying', 'Speech']"
+363,melspec_1324.npy,"['Blender', 'Speech']"
+364,melspec_1325.npy,"['Running_water', 'Speech']"
+365,melspec_1326.npy,"['Running_water', 'Speech']"
+366,melspec_1327.npy,['Speech']
+367,melspec_1328.npy,['Speech']
+368,melspec_1329.npy,"['Dishes', 'Speech']"
+369,melspec_133.npy,['Speech']
+370,melspec_1330.npy,['Speech']
+371,melspec_1331.npy,['Speech']
+372,melspec_1332.npy,"['Dishes', 'Frying', 'Speech']"
+373,melspec_1333.npy,"['Running_water', 'Speech']"
+374,melspec_1334.npy,"['Running_water', 'Speech']"
+375,melspec_1335.npy,['Speech']
+376,melspec_1336.npy,"['Running_water', 'Speech']"
+377,melspec_1337.npy,"['Running_water', 'Speech']"
+378,melspec_1338.npy,"['Dishes', 'Speech']"
+379,melspec_1339.npy,"['Dishes', 'Frying', 'Speech']"
+380,melspec_134.npy,"['Dishes', 'Speech']"
+381,melspec_1340.npy,"['Dishes', 'Running_water', 'Speech']"
+382,melspec_1341.npy,"['Dishes', 'Speech']"
+383,melspec_1342.npy,['Speech']
+384,melspec_1343.npy,"['Dishes', 'Speech']"
+385,melspec_1344.npy,"['Frying', 'Speech']"
+386,melspec_1345.npy,"['Dishes', 'Frying', 'Speech']"
+387,melspec_1346.npy,['Speech']
+388,melspec_1347.npy,['Speech']
+389,melspec_1348.npy,"['Frying', 'Speech']"
+390,melspec_1349.npy,['Speech']
+391,melspec_135.npy,"['Running_water', 'Speech']"
+392,melspec_1350.npy,"['Dishes', 'Speech']"
+393,melspec_1351.npy,"['Dishes', 'Running_water', 'Speech']"
+394,melspec_1352.npy,"['Running_water', 'Speech']"
+395,melspec_1353.npy,"['Dishes', 'Speech']"
+396,melspec_1354.npy,"['Dishes', 'Running_water', 'Speech']"
+397,melspec_1355.npy,"['Dishes', 'Speech']"
+398,melspec_1356.npy,"['Dishes', 'Speech']"
+399,melspec_1357.npy,"['Dishes', 'Speech']"
+400,melspec_1358.npy,"['Blender', 'Running_water', 'Speech']"
+401,melspec_1359.npy,['Speech']
+402,melspec_136.npy,['Speech']
+403,melspec_1360.npy,['Speech']
+404,melspec_1361.npy,['Speech']
+405,melspec_1362.npy,"['Frying', 'Speech']"
+406,melspec_1363.npy,"['Running_water', 'Speech']"
+407,melspec_1364.npy,"['Dishes', 'Speech']"
+408,melspec_1365.npy,"['Running_water', 'Speech']"
+409,melspec_1366.npy,['Speech']
+410,melspec_1367.npy,"['Frying', 'Speech']"
+411,melspec_1368.npy,"['Running_water', 'Speech']"
+412,melspec_1369.npy,['Speech']
+413,melspec_137.npy,['Speech']
+414,melspec_1370.npy,['Speech']
+415,melspec_1371.npy,['Speech']
+416,melspec_1372.npy,"['Running_water', 'Speech']"
+417,melspec_1373.npy,"['Running_water', 'Speech']"
+418,melspec_1374.npy,"['Running_water', 'Speech']"
+419,melspec_1375.npy,"['Frying', 'Speech']"
+420,melspec_1376.npy,['Speech']
+421,melspec_1377.npy,"['Dishes', 'Speech']"
+422,melspec_1378.npy,['Speech']
+423,melspec_1379.npy,"['Dishes', 'Frying', 'Speech']"
+424,melspec_138.npy,"['Running_water', 'Speech']"
+425,melspec_1380.npy,['Speech']
+426,melspec_1381.npy,"['Dishes', 'Running_water', 'Speech']"
+427,melspec_1382.npy,"['Dishes', 'Speech']"
+428,melspec_1383.npy,['Speech']
+429,melspec_1384.npy,"['Blender', 'Running_water', 'Speech']"
+430,melspec_1385.npy,['Speech']
+431,melspec_1386.npy,"['Dishes', 'Running_water', 'Speech']"
+432,melspec_1387.npy,"['Speech', 'Vacuum_cleaner']"
+433,melspec_1388.npy,['Speech']
+434,melspec_1389.npy,['Speech']
+435,melspec_139.npy,['Speech']
+436,melspec_1390.npy,['Speech']
+437,melspec_1391.npy,['Speech']
+438,melspec_1392.npy,"['Dishes', 'Speech']"
+439,melspec_1393.npy,['Speech']
+440,melspec_1394.npy,"['Dishes', 'Speech']"
+441,melspec_1395.npy,['Speech']
+442,melspec_1396.npy,['Speech']
+443,melspec_1397.npy,['Speech']
+444,melspec_1398.npy,"['Frying', 'Speech']"
+445,melspec_1399.npy,"['Running_water', 'Speech']"
+446,melspec_14.npy,['Speech']
+447,melspec_140.npy,"['Frying', 'Speech']"
+448,melspec_1400.npy,"['Frying', 'Speech']"
+449,melspec_1401.npy,['Speech']
+450,melspec_1402.npy,"['Dishes', 'Frying', 'Speech']"
+451,melspec_1403.npy,"['Dishes', 'Speech']"
+452,melspec_1404.npy,"['Running_water', 'Speech']"
+453,melspec_1405.npy,['Speech']
+454,melspec_1406.npy,['Speech']
+455,melspec_1407.npy,"['Blender', 'Speech']"
+456,melspec_1408.npy,"['Dishes', 'Speech']"
+457,melspec_1409.npy,['Speech']
+458,melspec_141.npy,"['Frying', 'Speech']"
+459,melspec_1410.npy,"['Frying', 'Speech']"
+460,melspec_1411.npy,['Speech']
+461,melspec_1412.npy,"['Frying', 'Speech']"
+462,melspec_1413.npy,"['Frying', 'Speech']"
+463,melspec_1414.npy,['Speech']
+464,melspec_1415.npy,['Speech']
+465,melspec_1416.npy,['Speech']
+466,melspec_1417.npy,['Speech']
+467,melspec_1418.npy,"['Dishes', 'Running_water', 'Speech']"
+468,melspec_1419.npy,['Speech']
+469,melspec_142.npy,['Speech']
+470,melspec_1420.npy,"['Running_water', 'Speech']"
+471,melspec_1421.npy,"['Frying', 'Speech']"
+472,melspec_1422.npy,"['Dishes', 'Frying', 'Speech']"
+473,melspec_1423.npy,"['Dishes', 'Frying', 'Speech']"
+474,melspec_1424.npy,['Speech']
+475,melspec_1425.npy,"['Dishes', 'Frying', 'Speech']"
+476,melspec_1426.npy,['Speech']
+477,melspec_1427.npy,['Speech']
+478,melspec_1428.npy,"['Dishes', 'Speech']"
+479,melspec_1429.npy,"['Running_water', 'Speech']"
+480,melspec_143.npy,"['Dishes', 'Speech']"
+481,melspec_1430.npy,['Speech']
+482,melspec_1431.npy,"['Dishes', 'Speech']"
+483,melspec_1432.npy,['Speech']
+484,melspec_1433.npy,"['Frying', 'Speech']"
+485,melspec_1434.npy,"['Dishes', 'Frying', 'Speech']"
+486,melspec_1435.npy,['Speech']
+487,melspec_1436.npy,['Speech']
+488,melspec_1437.npy,['Speech']
+489,melspec_1438.npy,['Speech']
+490,melspec_1439.npy,['Speech']
+491,melspec_144.npy,['Speech']
+492,melspec_1440.npy,['Speech']
+493,melspec_1441.npy,"['Frying', 'Speech']"
+494,melspec_1442.npy,"['Running_water', 'Speech']"
+495,melspec_1443.npy,['Speech']
+496,melspec_1444.npy,"['Dishes', 'Running_water', 'Speech']"
+497,melspec_1445.npy,['Speech']
+498,melspec_1446.npy,"['Dishes', 'Speech']"
+499,melspec_1447.npy,['Speech']
+500,melspec_1448.npy,"['Blender', 'Speech']"
+501,melspec_1449.npy,['Speech']
+502,melspec_145.npy,"['Dishes', 'Running_water', 'Speech']"
+503,melspec_1450.npy,"['Blender', 'Speech']"
+504,melspec_1451.npy,['Speech']
+505,melspec_1452.npy,"['Dishes', 'Speech']"
+506,melspec_1453.npy,"['Dishes', 'Speech']"
+507,melspec_1454.npy,['Speech']
+508,melspec_1455.npy,['Speech']
+509,melspec_1456.npy,['Speech']
+510,melspec_1457.npy,"['Frying', 'Speech']"
+511,melspec_1458.npy,['Speech']
+512,melspec_1459.npy,"['Blender', 'Running_water', 'Speech']"
+513,melspec_146.npy,"['Dishes', 'Frying', 'Speech']"
+514,melspec_1460.npy,"['Running_water', 'Speech']"
+515,melspec_1461.npy,"['Frying', 'Speech']"
+516,melspec_1462.npy,['Speech']
+517,melspec_1463.npy,"['Frying', 'Speech']"
+518,melspec_1464.npy,['Speech']
+519,melspec_1465.npy,"['Dishes', 'Speech']"
+520,melspec_1466.npy,"['Frying', 'Speech']"
+521,melspec_1467.npy,['Speech']
+522,melspec_1468.npy,"['Dishes', 'Speech']"
+523,melspec_1469.npy,['Speech']
+524,melspec_147.npy,"['Running_water', 'Speech']"
+525,melspec_1470.npy,['Speech']
+526,melspec_1471.npy,['Speech']
+527,melspec_1472.npy,['Speech']
+528,melspec_1473.npy,['Speech']
+529,melspec_1474.npy,['Speech']
+530,melspec_1475.npy,"['Frying', 'Speech']"
+531,melspec_1476.npy,"['Dishes', 'Frying', 'Speech']"
+532,melspec_1477.npy,"['Frying', 'Speech']"
+533,melspec_1478.npy,['Speech']
+534,melspec_1479.npy,"['Dishes', 'Speech']"
+535,melspec_148.npy,"['Running_water', 'Speech']"
+536,melspec_1480.npy,['Speech']
+537,melspec_1481.npy,['Speech']
+538,melspec_1482.npy,"['Frying', 'Speech']"
+539,melspec_1483.npy,['Speech']
+540,melspec_1484.npy,"['Dishes', 'Frying', 'Speech']"
+541,melspec_1485.npy,"['Dishes', 'Speech']"
+542,melspec_1486.npy,"['Dishes', 'Speech']"
+543,melspec_1487.npy,['Speech']
+544,melspec_1488.npy,['Speech']
+545,melspec_1489.npy,"['Dishes', 'Speech']"
+546,melspec_149.npy,['Speech']
+547,melspec_1490.npy,"['Dishes', 'Running_water', 'Speech']"
+548,melspec_1491.npy,['Speech']
+549,melspec_1492.npy,"['Blender', 'Speech']"
+550,melspec_1493.npy,['Speech']
+551,melspec_1494.npy,['Speech']
+552,melspec_1495.npy,"['Frying', 'Speech']"
+553,melspec_1496.npy,['Speech']
+554,melspec_1497.npy,"['Frying', 'Speech']"
+555,melspec_1498.npy,['Speech']
+556,melspec_1499.npy,"['Dishes', 'Speech']"
+557,melspec_15.npy,"['Dishes', 'Speech']"
+558,melspec_150.npy,"['Dishes', 'Running_water', 'Speech']"
+559,melspec_1500.npy,"['Running_water', 'Speech']"
+560,melspec_1501.npy,['Speech']
+561,melspec_1502.npy,"['Dishes', 'Speech']"
+562,melspec_1503.npy,"['Running_water', 'Speech']"
+563,melspec_1504.npy,"['Running_water', 'Speech']"
+564,melspec_1505.npy,"['Frying', 'Speech']"
+565,melspec_1506.npy,"['Running_water', 'Speech']"
+566,melspec_1507.npy,['Speech']
+567,melspec_1508.npy,['Speech']
+568,melspec_1509.npy,"['Running_water', 'Speech']"
+569,melspec_151.npy,"['Frying', 'Speech']"
+570,melspec_1510.npy,"['Frying', 'Speech']"
+571,melspec_1511.npy,['Speech']
+572,melspec_1512.npy,"['Frying', 'Speech']"
+573,melspec_1513.npy,['Speech']
+574,melspec_1514.npy,['Speech']
+575,melspec_1515.npy,['Speech']
+576,melspec_1516.npy,"['Speech', 'Vacuum_cleaner']"
+577,melspec_1517.npy,"['Dishes', 'Speech']"
+578,melspec_1518.npy,"['Dishes', 'Speech']"
+579,melspec_1519.npy,"['Dishes', 'Speech']"
+580,melspec_152.npy,"['Dishes', 'Speech']"
+581,melspec_1520.npy,"['Running_water', 'Speech']"
+582,melspec_1521.npy,"['Blender', 'Speech']"
+583,melspec_1522.npy,"['Dishes', 'Frying', 'Speech']"
+584,melspec_1523.npy,['Speech']
+585,melspec_1524.npy,"['Frying', 'Speech']"
+586,melspec_1525.npy,"['Dishes', 'Speech']"
+587,melspec_1526.npy,['Speech']
+588,melspec_1527.npy,"['Dishes', 'Speech']"
+589,melspec_1528.npy,"['Blender', 'Speech']"
+590,melspec_1529.npy,"['Running_water', 'Speech']"
+591,melspec_153.npy,"['Frying', 'Speech']"
+592,melspec_1530.npy,"['Dishes', 'Speech']"
+593,melspec_1531.npy,['Speech']
+594,melspec_1532.npy,['Speech']
+595,melspec_1533.npy,['Speech']
+596,melspec_1534.npy,['Speech']
+597,melspec_1535.npy,"['Frying', 'Speech']"
+598,melspec_1536.npy,"['Running_water', 'Speech']"
+599,melspec_1537.npy,"['Running_water', 'Speech']"
+600,melspec_1538.npy,"['Dishes', 'Speech']"
+601,melspec_1539.npy,"['Running_water', 'Speech']"
+602,melspec_154.npy,['Speech']
+603,melspec_1540.npy,"['Frying', 'Speech']"
+604,melspec_1541.npy,['Speech']
+605,melspec_1542.npy,['Speech']
+606,melspec_1543.npy,"['Running_water', 'Speech']"
+607,melspec_1544.npy,['Speech']
+608,melspec_1545.npy,['Speech']
+609,melspec_1546.npy,"['Frying', 'Speech']"
+610,melspec_1547.npy,"['Dishes', 'Speech']"
+611,melspec_1548.npy,"['Dishes', 'Frying', 'Speech']"
+612,melspec_1549.npy,"['Dishes', 'Speech']"
+613,melspec_155.npy,['Speech']
+614,melspec_1550.npy,['Speech']
+615,melspec_1551.npy,"['Frying', 'Speech']"
+616,melspec_1552.npy,"['Frying', 'Speech']"
+617,melspec_1553.npy,"['Running_water', 'Speech']"
+618,melspec_1554.npy,"['Dishes', 'Speech']"
+619,melspec_1555.npy,"['Dishes', 'Speech']"
+620,melspec_1556.npy,['Speech']
+621,melspec_1557.npy,"['Running_water', 'Speech']"
+622,melspec_1558.npy,"['Running_water', 'Speech']"
+623,melspec_1559.npy,"['Running_water', 'Speech']"
+624,melspec_156.npy,['Speech']
+625,melspec_1560.npy,"['Dishes', 'Speech']"
+626,melspec_1561.npy,['Speech']
+627,melspec_1562.npy,"['Frying', 'Speech']"
+628,melspec_1563.npy,['Speech']
+629,melspec_1564.npy,"['Dishes', 'Speech']"
+630,melspec_1565.npy,['Speech']
+631,melspec_1566.npy,['Speech']
+632,melspec_1567.npy,['Speech']
+633,melspec_1568.npy,"['Running_water', 'Speech']"
+634,melspec_1569.npy,"['Dishes', 'Frying', 'Speech']"
+635,melspec_157.npy,"['Blender', 'Speech']"
+636,melspec_1570.npy,['Speech']
+637,melspec_1571.npy,['Speech']
+638,melspec_1572.npy,"['Running_water', 'Speech']"
+639,melspec_1573.npy,['Speech']
+640,melspec_1574.npy,"['Frying', 'Speech']"
+641,melspec_1575.npy,"['Dishes', 'Frying', 'Speech']"
+642,melspec_1576.npy,['Speech']
+643,melspec_1577.npy,"['Frying', 'Speech']"
+644,melspec_1578.npy,['Speech']
+645,melspec_1579.npy,['Speech']
+646,melspec_158.npy,"['Dishes', 'Speech']"
+647,melspec_1580.npy,"['Blender', 'Speech']"
+648,melspec_1581.npy,"['Dishes', 'Speech']"
+649,melspec_1582.npy,"['Running_water', 'Speech']"
+650,melspec_1583.npy,"['Running_water', 'Speech']"
+651,melspec_1584.npy,['Speech']
+652,melspec_1585.npy,['Speech']
+653,melspec_1586.npy,"['Dishes', 'Frying', 'Speech']"
+654,melspec_1587.npy,"['Running_water', 'Speech']"
+655,melspec_1588.npy,"['Frying', 'Speech']"
+656,melspec_1589.npy,"['Frying', 'Speech']"
+657,melspec_159.npy,"['Frying', 'Speech']"
+658,melspec_1590.npy,['Speech']
+659,melspec_1591.npy,"['Running_water', 'Speech']"
+660,melspec_1592.npy,"['Speech', 'Vacuum_cleaner']"
+661,melspec_1593.npy,"['Running_water', 'Speech']"
+662,melspec_1594.npy,"['Dishes', 'Frying', 'Speech']"
+663,melspec_1595.npy,"['Dishes', 'Speech']"
+664,melspec_1596.npy,"['Dishes', 'Speech']"
+665,melspec_1597.npy,['Speech']
+666,melspec_1598.npy,['Speech']
+667,melspec_1599.npy,"['Frying', 'Speech']"
+668,melspec_16.npy,"['Running_water', 'Speech']"
+669,melspec_160.npy,['Speech']
+670,melspec_1600.npy,['Speech']
+671,melspec_1601.npy,"['Dishes', 'Speech']"
+672,melspec_1602.npy,"['Frying', 'Speech']"
+673,melspec_1603.npy,['Speech']
+674,melspec_1604.npy,"['Frying', 'Speech']"
+675,melspec_1605.npy,"['Dishes', 'Frying', 'Speech']"
+676,melspec_1606.npy,['Speech']
+677,melspec_1607.npy,['Speech']
+678,melspec_1608.npy,"['Running_water', 'Speech']"
+679,melspec_1609.npy,['Speech']
+680,melspec_161.npy,"['Blender', 'Speech']"
+681,melspec_1610.npy,"['Speech', 'Vacuum_cleaner']"
+682,melspec_1611.npy,"['Dishes', 'Frying', 'Speech']"
+683,melspec_1612.npy,['Speech']
+684,melspec_1613.npy,"['Dishes', 'Frying', 'Speech']"
+685,melspec_1614.npy,['Speech']
+686,melspec_1615.npy,"['Dishes', 'Speech']"
+687,melspec_1616.npy,['Speech']
+688,melspec_1617.npy,"['Dishes', 'Speech']"
+689,melspec_1618.npy,['Speech']
+690,melspec_1619.npy,"['Dishes', 'Speech']"
+691,melspec_162.npy,['Speech']
+692,melspec_1620.npy,"['Running_water', 'Speech']"
+693,melspec_1621.npy,"['Dishes', 'Frying', 'Speech']"
+694,melspec_1622.npy,"['Dishes', 'Speech']"
+695,melspec_1623.npy,"['Frying', 'Speech']"
+696,melspec_1624.npy,"['Dishes', 'Frying', 'Speech']"
+697,melspec_1625.npy,['Speech']
+698,melspec_1626.npy,"['Dishes', 'Frying', 'Speech']"
+699,melspec_1627.npy,"['Dishes', 'Frying', 'Speech']"
+700,melspec_1628.npy,['Speech']
+701,melspec_1629.npy,"['Dishes', 'Running_water', 'Speech']"
+702,melspec_163.npy,['Speech']
+703,melspec_1630.npy,['Speech']
+704,melspec_1631.npy,"['Dishes', 'Speech']"
+705,melspec_1632.npy,['Speech']
+706,melspec_1633.npy,"['Running_water', 'Speech']"
+707,melspec_1634.npy,"['Frying', 'Speech']"
+708,melspec_1635.npy,"['Frying', 'Speech']"
+709,melspec_1636.npy,"['Frying', 'Speech']"
+710,melspec_1637.npy,['Speech']
+711,melspec_1638.npy,"['Dishes', 'Speech']"
+712,melspec_1639.npy,['Speech']
+713,melspec_164.npy,"['Dishes', 'Speech']"
+714,melspec_1640.npy,['Speech']
+715,melspec_1641.npy,"['Running_water', 'Speech']"
+716,melspec_1642.npy,"['Running_water', 'Speech']"
+717,melspec_1643.npy,"['Dishes', 'Running_water', 'Speech']"
+718,melspec_1644.npy,"['Blender', 'Speech']"
+719,melspec_1645.npy,['Speech']
+720,melspec_1646.npy,"['Running_water', 'Speech']"
+721,melspec_1647.npy,"['Frying', 'Speech']"
+722,melspec_1648.npy,"['Frying', 'Speech']"
+723,melspec_1649.npy,"['Dishes', 'Frying', 'Speech']"
+724,melspec_165.npy,"['Running_water', 'Speech']"
+725,melspec_1650.npy,"['Dishes', 'Speech']"
+726,melspec_1651.npy,"['Frying', 'Speech']"
+727,melspec_1652.npy,['Speech']
+728,melspec_1653.npy,"['Dishes', 'Speech']"
+729,melspec_1654.npy,"['Running_water', 'Speech']"
+730,melspec_1655.npy,['Speech']
+731,melspec_1656.npy,['Speech']
+732,melspec_1657.npy,"['Blender', 'Speech']"
+733,melspec_1658.npy,"['Running_water', 'Speech']"
+734,melspec_1659.npy,"['Running_water', 'Speech']"
+735,melspec_166.npy,['Speech']
+736,melspec_1660.npy,"['Dishes', 'Speech']"
+737,melspec_1661.npy,['Speech']
+738,melspec_1662.npy,"['Dishes', 'Speech']"
+739,melspec_1663.npy,"['Dishes', 'Speech']"
+740,melspec_1664.npy,"['Dishes', 'Speech']"
+741,melspec_1665.npy,['Speech']
+742,melspec_1666.npy,"['Frying', 'Speech']"
+743,melspec_1667.npy,['Speech']
+744,melspec_1668.npy,['Speech']
+745,melspec_1669.npy,['Speech']
+746,melspec_167.npy,['Speech']
+747,melspec_1670.npy,['Speech']
+748,melspec_1671.npy,"['Dishes', 'Speech']"
+749,melspec_1672.npy,['Speech']
+750,melspec_1673.npy,"['Dishes', 'Speech']"
+751,melspec_1674.npy,['Speech']
+752,melspec_1675.npy,['Speech']
+753,melspec_1676.npy,"['Running_water', 'Speech']"
+754,melspec_1677.npy,"['Running_water', 'Speech']"
+755,melspec_1678.npy,['Speech']
+756,melspec_1679.npy,['Speech']
+757,melspec_168.npy,"['Running_water', 'Speech']"
+758,melspec_1680.npy,['Speech']
+759,melspec_1681.npy,['Speech']
+760,melspec_1682.npy,"['Dishes', 'Frying', 'Speech']"
+761,melspec_1683.npy,"['Running_water', 'Speech']"
+762,melspec_1684.npy,"['Running_water', 'Speech']"
+763,melspec_1685.npy,['Speech']
+764,melspec_1686.npy,"['Dishes', 'Speech']"
+765,melspec_1687.npy,"['Frying', 'Speech']"
+766,melspec_1688.npy,['Speech']
+767,melspec_1689.npy,['Speech']
+768,melspec_169.npy,"['Running_water', 'Speech']"
+769,melspec_1690.npy,"['Frying', 'Speech']"
+770,melspec_1691.npy,"['Frying', 'Speech']"
+771,melspec_1692.npy,"['Dishes', 'Speech']"
+772,melspec_1693.npy,"['Dishes', 'Speech']"
+773,melspec_1694.npy,['Speech']
+774,melspec_1695.npy,['Speech']
+775,melspec_1696.npy,"['Frying', 'Speech']"
+776,melspec_1697.npy,['Speech']
+777,melspec_1698.npy,"['Frying', 'Speech']"
+778,melspec_1699.npy,"['Dishes', 'Speech']"
+779,melspec_17.npy,['Speech']
+780,melspec_170.npy,"['Running_water', 'Speech']"
+781,melspec_1700.npy,"['Frying', 'Speech']"
+782,melspec_1701.npy,"['Dishes', 'Frying', 'Speech']"
+783,melspec_1702.npy,['Speech']
+784,melspec_1703.npy,['Speech']
+785,melspec_1704.npy,"['Frying', 'Speech']"
+786,melspec_1705.npy,"['Dishes', 'Running_water', 'Speech']"
+787,melspec_1706.npy,"['Dishes', 'Speech']"
+788,melspec_1707.npy,"['Frying', 'Speech']"
+789,melspec_1708.npy,"['Blender', 'Speech']"
+790,melspec_1709.npy,"['Dishes', 'Speech']"
+791,melspec_171.npy,"['Dishes', 'Speech']"
+792,melspec_1710.npy,['Speech']
+793,melspec_1711.npy,"['Running_water', 'Speech']"
+794,melspec_1712.npy,"['Running_water', 'Speech']"
+795,melspec_1713.npy,"['Dishes', 'Speech']"
+796,melspec_1714.npy,['Speech']
+797,melspec_1715.npy,"['Running_water', 'Speech']"
+798,melspec_1716.npy,['Speech']
+799,melspec_1717.npy,"['Running_water', 'Speech']"
+800,melspec_1718.npy,"['Running_water', 'Speech']"
+801,melspec_1719.npy,['Speech']
+802,melspec_172.npy,['Speech']
+803,melspec_1720.npy,['Speech']
+804,melspec_1721.npy,['Speech']
+805,melspec_1722.npy,"['Running_water', 'Speech']"
+806,melspec_1723.npy,"['Running_water', 'Speech']"
+807,melspec_1724.npy,['Speech']
+808,melspec_1725.npy,['Speech']
+809,melspec_1726.npy,"['Dishes', 'Frying', 'Speech']"
+810,melspec_1727.npy,['Speech']
+811,melspec_1728.npy,['Speech']
+812,melspec_1729.npy,"['Dishes', 'Speech']"
+813,melspec_173.npy,['Speech']
+814,melspec_1730.npy,"['Dishes', 'Frying', 'Speech']"
+815,melspec_1731.npy,"['Frying', 'Speech']"
+816,melspec_1732.npy,"['Frying', 'Speech']"
+817,melspec_1733.npy,"['Dishes', 'Frying', 'Speech']"
+818,melspec_1734.npy,"['Dishes', 'Speech']"
+819,melspec_1735.npy,"['Running_water', 'Speech']"
+820,melspec_1736.npy,"['Frying', 'Speech']"
+821,melspec_1737.npy,['Speech']
+822,melspec_1738.npy,['Speech']
+823,melspec_1739.npy,"['Running_water', 'Speech']"
+824,melspec_174.npy,"['Dishes', 'Speech']"
+825,melspec_1740.npy,"['Frying', 'Speech']"
+826,melspec_1741.npy,['Speech']
+827,melspec_1742.npy,"['Running_water', 'Speech']"
+828,melspec_1743.npy,"['Frying', 'Speech']"
+829,melspec_1744.npy,"['Running_water', 'Speech']"
+830,melspec_1745.npy,"['Frying', 'Speech']"
+831,melspec_1746.npy,['Speech']
+832,melspec_1747.npy,"['Dishes', 'Frying', 'Speech']"
+833,melspec_1748.npy,"['Frying', 'Speech']"
+834,melspec_1749.npy,"['Electric_shaver_toothbrush', 'Speech']"
+835,melspec_175.npy,"['Running_water', 'Speech']"
+836,melspec_1750.npy,['Speech']
+837,melspec_1751.npy,"['Dishes', 'Frying', 'Speech']"
+838,melspec_1752.npy,"['Dishes', 'Speech']"
+839,melspec_1753.npy,['Speech']
+840,melspec_1754.npy,"['Dishes', 'Speech']"
+841,melspec_1755.npy,"['Dishes', 'Frying', 'Speech']"
+842,melspec_1756.npy,"['Dishes', 'Speech']"
+843,melspec_1757.npy,['Speech']
+844,melspec_1758.npy,['Speech']
+845,melspec_1759.npy,"['Dishes', 'Speech']"
+846,melspec_176.npy,['Speech']
+847,melspec_1760.npy,['Speech']
+848,melspec_1761.npy,['Speech']
+849,melspec_1762.npy,"['Running_water', 'Speech']"
+850,melspec_1763.npy,"['Frying', 'Speech']"
+851,melspec_1764.npy,['Speech']
+852,melspec_1765.npy,"['Blender', 'Speech']"
+853,melspec_1766.npy,['Speech']
+854,melspec_1767.npy,['Speech']
+855,melspec_1768.npy,"['Dishes', 'Speech']"
+856,melspec_1769.npy,"['Dishes', 'Speech']"
+857,melspec_177.npy,['Speech']
+858,melspec_1770.npy,"['Running_water', 'Speech']"
+859,melspec_1771.npy,['Speech']
+860,melspec_1772.npy,['Speech']
+861,melspec_1773.npy,['Speech']
+862,melspec_1774.npy,"['Frying', 'Speech']"
+863,melspec_1775.npy,['Speech']
+864,melspec_1776.npy,"['Blender', 'Dishes', 'Speech']"
+865,melspec_1777.npy,['Speech']
+866,melspec_1778.npy,"['Dishes', 'Frying', 'Speech']"
+867,melspec_1779.npy,"['Dishes', 'Frying', 'Speech']"
+868,melspec_178.npy,['Speech']
+869,melspec_1780.npy,"['Blender', 'Speech']"
+870,melspec_1781.npy,"['Dishes', 'Speech']"
+871,melspec_1782.npy,"['Dishes', 'Speech']"
+872,melspec_1783.npy,['Speech']
+873,melspec_1784.npy,"['Dishes', 'Frying', 'Speech']"
+874,melspec_1785.npy,['Speech']
+875,melspec_1786.npy,['Speech']
+876,melspec_1787.npy,"['Dishes', 'Frying', 'Speech']"
+877,melspec_1788.npy,"['Frying', 'Speech']"
+878,melspec_1789.npy,"['Running_water', 'Speech']"
+879,melspec_179.npy,"['Dishes', 'Speech']"
+880,melspec_1790.npy,"['Frying', 'Speech']"
+881,melspec_1791.npy,"['Dishes', 'Frying', 'Speech']"
+882,melspec_1792.npy,['Speech']
+883,melspec_1793.npy,['Speech']
+884,melspec_1794.npy,['Speech']
+885,melspec_1795.npy,['Speech']
+886,melspec_1796.npy,['Speech']
+887,melspec_1797.npy,['Speech']
+888,melspec_1798.npy,"['Dishes', 'Frying', 'Speech']"
+889,melspec_1799.npy,"['Blender', 'Speech']"
+890,melspec_18.npy,"['Blender', 'Speech']"
+891,melspec_180.npy,"['Frying', 'Speech']"
+892,melspec_1800.npy,"['Running_water', 'Speech']"
+893,melspec_1801.npy,"['Dishes', 'Speech']"
+894,melspec_1802.npy,['Speech']
+895,melspec_1803.npy,"['Dishes', 'Speech']"
+896,melspec_1804.npy,"['Running_water', 'Speech']"
+897,melspec_1805.npy,['Speech']
+898,melspec_1806.npy,['Speech']
+899,melspec_1807.npy,['Speech']
+900,melspec_1808.npy,"['Running_water', 'Speech']"
+901,melspec_1809.npy,"['Frying', 'Speech']"
+902,melspec_181.npy,"['Frying', 'Speech']"
+903,melspec_1810.npy,['Speech']
+904,melspec_1811.npy,['Speech']
+905,melspec_1812.npy,"['Dishes', 'Electric_shaver_toothbrush', 'Speech']"
+906,melspec_1813.npy,"['Frying', 'Speech']"
+907,melspec_1814.npy,['Speech']
+908,melspec_1815.npy,"['Dishes', 'Frying', 'Speech']"
+909,melspec_1816.npy,['Speech']
+910,melspec_1817.npy,"['Dishes', 'Speech']"
+911,melspec_1818.npy,"['Frying', 'Speech']"
+912,melspec_1819.npy,['Speech']
+913,melspec_182.npy,['Speech']
+914,melspec_1820.npy,"['Speech', 'Vacuum_cleaner']"
+915,melspec_1821.npy,"['Frying', 'Speech']"
+916,melspec_1822.npy,"['Dishes', 'Speech']"
+917,melspec_1823.npy,['Speech']
+918,melspec_1824.npy,['Speech']
+919,melspec_1825.npy,['Speech']
+920,melspec_1826.npy,['Speech']
+921,melspec_1827.npy,"['Running_water', 'Speech']"
+922,melspec_1828.npy,['Speech']
+923,melspec_1829.npy,"['Frying', 'Speech']"
+924,melspec_183.npy,"['Running_water', 'Speech']"
+925,melspec_1830.npy,"['Dishes', 'Speech']"
+926,melspec_1831.npy,['Speech']
+927,melspec_1832.npy,"['Running_water', 'Speech']"
+928,melspec_1833.npy,"['Dishes', 'Speech']"
+929,melspec_1834.npy,['Speech']
+930,melspec_1835.npy,"['Dishes', 'Speech']"
+931,melspec_1836.npy,['Speech']
+932,melspec_1837.npy,['Speech']
+933,melspec_1838.npy,['Speech']
+934,melspec_1839.npy,"['Frying', 'Speech']"
+935,melspec_184.npy,['Speech']
+936,melspec_1840.npy,['Speech']
+937,melspec_1841.npy,['Speech']
+938,melspec_1842.npy,"['Dishes', 'Frying', 'Speech']"
+939,melspec_1843.npy,"['Frying', 'Speech']"
+940,melspec_1844.npy,['Speech']
+941,melspec_1845.npy,"['Dishes', 'Frying', 'Speech']"
+942,melspec_1846.npy,"['Dishes', 'Frying', 'Speech']"
+943,melspec_1847.npy,['Speech']
+944,melspec_1848.npy,"['Frying', 'Speech']"
+945,melspec_1849.npy,['Speech']
+946,melspec_185.npy,"['Dishes', 'Speech']"
+947,melspec_1850.npy,"['Frying', 'Speech']"
+948,melspec_1851.npy,['Speech']
+949,melspec_1852.npy,['Speech']
+950,melspec_1853.npy,['Speech']
+951,melspec_1854.npy,"['Dishes', 'Speech']"
+952,melspec_1855.npy,"['Frying', 'Speech']"
+953,melspec_1856.npy,"['Frying', 'Speech']"
+954,melspec_1857.npy,"['Dishes', 'Speech']"
+955,melspec_1858.npy,['Speech']
+956,melspec_1859.npy,['Speech']
+957,melspec_186.npy,['Speech']
+958,melspec_1860.npy,"['Dishes', 'Running_water', 'Speech']"
+959,melspec_1861.npy,['Speech']
+960,melspec_1862.npy,['Speech']
+961,melspec_1863.npy,"['Dishes', 'Speech']"
+962,melspec_1864.npy,"['Speech', 'Vacuum_cleaner']"
+963,melspec_1865.npy,"['Frying', 'Speech']"
+964,melspec_1866.npy,"['Running_water', 'Speech']"
+965,melspec_1867.npy,['Speech']
+966,melspec_1868.npy,['Speech']
+967,melspec_1869.npy,['Speech']
+968,melspec_187.npy,['Speech']
+969,melspec_1870.npy,"['Frying', 'Speech']"
+970,melspec_1871.npy,"['Frying', 'Speech']"
+971,melspec_1872.npy,"['Frying', 'Speech']"
+972,melspec_1873.npy,"['Dishes', 'Running_water', 'Speech']"
+973,melspec_1874.npy,"['Running_water', 'Speech']"
+974,melspec_1875.npy,['Speech']
+975,melspec_1876.npy,"['Dishes', 'Running_water', 'Speech']"
+976,melspec_1877.npy,['Speech']
+977,melspec_1878.npy,['Speech']
+978,melspec_1879.npy,['Speech']
+979,melspec_188.npy,"['Dishes', 'Speech']"
+980,melspec_1880.npy,"['Blender', 'Running_water', 'Speech']"
+981,melspec_1881.npy,"['Electric_shaver_toothbrush', 'Running_water', 'Speech', 'Vacuum_cleaner']"
+982,melspec_1882.npy,['Speech']
+983,melspec_1883.npy,"['Dishes', 'Running_water', 'Speech']"
+984,melspec_1884.npy,"['Dishes', 'Speech']"
+985,melspec_1885.npy,"['Dishes', 'Frying', 'Speech']"
+986,melspec_1886.npy,"['Frying', 'Speech']"
+987,melspec_1887.npy,['Speech']
+988,melspec_1888.npy,"['Blender', 'Speech']"
+989,melspec_1889.npy,"['Frying', 'Speech']"
+990,melspec_189.npy,"['Frying', 'Speech']"
+991,melspec_1890.npy,['Speech']
+992,melspec_1891.npy,"['Running_water', 'Speech']"
+993,melspec_1892.npy,"['Dishes', 'Frying', 'Speech']"
+994,melspec_1893.npy,"['Dishes', 'Speech']"
+995,melspec_1894.npy,"['Running_water', 'Speech']"
+996,melspec_1895.npy,"['Frying', 'Speech']"
+997,melspec_1896.npy,['Speech']
+998,melspec_1897.npy,"['Frying', 'Speech']"
+999,melspec_1898.npy,"['Frying', 'Speech']"
+1000,melspec_1899.npy,['Speech']
+1001,melspec_19.npy,['Speech']
+1002,melspec_190.npy,"['Running_water', 'Speech']"
+1003,melspec_1900.npy,['Speech']
+1004,melspec_1901.npy,"['Blender', 'Speech']"
+1005,melspec_1902.npy,['Speech']
+1006,melspec_1903.npy,"['Dishes', 'Running_water', 'Speech']"
+1007,melspec_1904.npy,"['Running_water', 'Speech']"
+1008,melspec_1905.npy,"['Dishes', 'Speech']"
+1009,melspec_1906.npy,['Speech']
+1010,melspec_1907.npy,['Speech']
+1011,melspec_1908.npy,['Speech']
+1012,melspec_1909.npy,['Speech']
+1013,melspec_191.npy,['Speech']
+1014,melspec_1910.npy,"['Running_water', 'Speech']"
+1015,melspec_1911.npy,['Speech']
+1016,melspec_1912.npy,"['Frying', 'Speech']"
+1017,melspec_1913.npy,"['Running_water', 'Speech']"
+1018,melspec_1914.npy,['Speech']
+1019,melspec_1915.npy,"['Running_water', 'Speech']"
+1020,melspec_1916.npy,['Speech']
+1021,melspec_1917.npy,"['Running_water', 'Speech']"
+1022,melspec_1918.npy,['Speech']
+1023,melspec_1919.npy,['Speech']
+1024,melspec_192.npy,"['Dishes', 'Speech']"
+1025,melspec_1920.npy,['Speech']
+1026,melspec_1921.npy,['Speech']
+1027,melspec_1922.npy,"['Frying', 'Speech']"
+1028,melspec_1923.npy,['Speech']
+1029,melspec_1924.npy,['Speech']
+1030,melspec_1925.npy,['Speech']
+1031,melspec_1926.npy,"['Running_water', 'Speech']"
+1032,melspec_1927.npy,"['Frying', 'Speech']"
+1033,melspec_1928.npy,['Speech']
+1034,melspec_1929.npy,"['Running_water', 'Speech']"
+1035,melspec_193.npy,"['Dishes', 'Speech']"
+1036,melspec_1930.npy,"['Dishes', 'Speech']"
+1037,melspec_1931.npy,"['Dishes', 'Speech']"
+1038,melspec_1932.npy,"['Running_water', 'Speech']"
+1039,melspec_1933.npy,"['Blender', 'Speech']"
+1040,melspec_1934.npy,['Speech']
+1041,melspec_1935.npy,['Speech']
+1042,melspec_1936.npy,"['Running_water', 'Speech']"
+1043,melspec_1937.npy,['Speech']
+1044,melspec_1938.npy,['Speech']
+1045,melspec_1939.npy,"['Running_water', 'Speech']"
+1046,melspec_194.npy,['Speech']
+1047,melspec_1940.npy,['Speech']
+1048,melspec_1941.npy,['Speech']
+1049,melspec_1942.npy,['Speech']
+1050,melspec_1943.npy,"['Running_water', 'Speech']"
+1051,melspec_1944.npy,"['Frying', 'Speech']"
+1052,melspec_1945.npy,"['Frying', 'Speech']"
+1053,melspec_1946.npy,"['Running_water', 'Speech']"
+1054,melspec_1947.npy,['Speech']
+1055,melspec_1948.npy,['Speech']
+1056,melspec_1949.npy,['Speech']
+1057,melspec_195.npy,['Speech']
+1058,melspec_1950.npy,"['Frying', 'Speech']"
+1059,melspec_1951.npy,"['Dishes', 'Frying', 'Speech']"
+1060,melspec_1952.npy,"['Running_water', 'Speech']"
+1061,melspec_1953.npy,"['Running_water', 'Speech']"
+1062,melspec_1954.npy,"['Frying', 'Speech']"
+1063,melspec_1955.npy,"['Dishes', 'Speech']"
+1064,melspec_1956.npy,"['Dishes', 'Frying', 'Speech']"
+1065,melspec_1957.npy,['Speech']
+1066,melspec_1958.npy,['Speech']
+1067,melspec_1959.npy,"['Running_water', 'Speech']"
+1068,melspec_196.npy,['Speech']
+1069,melspec_1960.npy,"['Dishes', 'Speech']"
+1070,melspec_1961.npy,"['Dishes', 'Frying', 'Speech']"
+1071,melspec_1962.npy,"['Dishes', 'Speech']"
+1072,melspec_1963.npy,"['Running_water', 'Speech']"
+1073,melspec_1964.npy,"['Frying', 'Speech']"
+1074,melspec_1965.npy,"['Dishes', 'Frying', 'Speech']"
+1075,melspec_1966.npy,['Speech']
+1076,melspec_1967.npy,['Speech']
+1077,melspec_1968.npy,"['Dishes', 'Speech']"
+1078,melspec_1969.npy,['Speech']
+1079,melspec_197.npy,"['Running_water', 'Speech', 'Vacuum_cleaner']"
+1080,melspec_1970.npy,['Speech']
+1081,melspec_1971.npy,"['Dishes', 'Speech']"
+1082,melspec_1972.npy,"['Frying', 'Speech']"
+1083,melspec_1973.npy,"['Frying', 'Speech']"
+1084,melspec_1974.npy,"['Blender', 'Speech']"
+1085,melspec_1975.npy,"['Dishes', 'Frying', 'Speech']"
+1086,melspec_1976.npy,['Speech']
+1087,melspec_1977.npy,"['Running_water', 'Speech']"
+1088,melspec_1978.npy,['Speech']
+1089,melspec_1979.npy,"['Dishes', 'Speech']"
+1090,melspec_198.npy,"['Dishes', 'Electric_shaver_toothbrush', 'Frying', 'Speech']"
+1091,melspec_1980.npy,"['Dishes', 'Frying', 'Speech']"
+1092,melspec_1981.npy,['Speech']
+1093,melspec_1982.npy,"['Running_water', 'Speech']"
+1094,melspec_1983.npy,['Speech']
+1095,melspec_1984.npy,['Speech']
+1096,melspec_1985.npy,"['Dishes', 'Speech']"
+1097,melspec_1986.npy,['Speech']
+1098,melspec_1987.npy,"['Dishes', 'Frying', 'Speech']"
+1099,melspec_1988.npy,"['Frying', 'Speech']"
+1100,melspec_1989.npy,['Speech']
+1101,melspec_199.npy,"['Speech', 'Vacuum_cleaner']"
+1102,melspec_1990.npy,['Speech']
+1103,melspec_1991.npy,"['Running_water', 'Speech']"
+1104,melspec_1992.npy,['Speech']
+1105,melspec_1993.npy,"['Frying', 'Speech']"
+1106,melspec_1994.npy,"['Frying', 'Speech']"
+1107,melspec_1995.npy,"['Dishes', 'Frying', 'Speech']"
+1108,melspec_1996.npy,"['Frying', 'Speech']"
+1109,melspec_1997.npy,['Speech']
+1110,melspec_1998.npy,['Speech']
+1111,melspec_1999.npy,['Speech']
+1112,melspec_2.npy,['Speech']
+1113,melspec_20.npy,"['Running_water', 'Speech']"
+1114,melspec_200.npy,"['Running_water', 'Speech']"
+1115,melspec_2000.npy,['Speech']
+1116,melspec_2001.npy,['Speech']
+1117,melspec_2002.npy,"['Running_water', 'Speech']"
+1118,melspec_2003.npy,"['Frying', 'Speech']"
+1119,melspec_2004.npy,['Speech']
+1120,melspec_2005.npy,"['Dishes', 'Running_water', 'Speech']"
+1121,melspec_2006.npy,"['Frying', 'Speech']"
+1122,melspec_2007.npy,['Speech']
+1123,melspec_2008.npy,"['Frying', 'Speech']"
+1124,melspec_2009.npy,['Speech']
+1125,melspec_201.npy,"['Running_water', 'Speech']"
+1126,melspec_2010.npy,"['Dishes', 'Frying', 'Speech']"
+1127,melspec_2011.npy,"['Dishes', 'Speech']"
+1128,melspec_2012.npy,"['Dishes', 'Frying', 'Speech']"
+1129,melspec_2013.npy,"['Running_water', 'Speech']"
+1130,melspec_2014.npy,"['Running_water', 'Speech']"
+1131,melspec_2015.npy,"['Dishes', 'Speech']"
+1132,melspec_2016.npy,['Speech']
+1133,melspec_2017.npy,"['Frying', 'Speech']"
+1134,melspec_2018.npy,['Speech']
+1135,melspec_2019.npy,['Speech']
+1136,melspec_202.npy,"['Blender', 'Speech']"
+1137,melspec_2020.npy,['Speech']
+1138,melspec_2021.npy,['Speech']
+1139,melspec_2022.npy,"['Running_water', 'Speech']"
+1140,melspec_2023.npy,"['Running_water', 'Speech']"
+1141,melspec_2024.npy,"['Frying', 'Speech']"
+1142,melspec_2025.npy,['Speech']
+1143,melspec_2026.npy,"['Dishes', 'Speech']"
+1144,melspec_2027.npy,['Speech']
+1145,melspec_2028.npy,"['Running_water', 'Speech']"
+1146,melspec_2029.npy,['Speech']
+1147,melspec_203.npy,['Speech']
+1148,melspec_2030.npy,['Speech']
+1149,melspec_2031.npy,"['Dishes', 'Speech']"
+1150,melspec_2032.npy,"['Dishes', 'Speech']"
+1151,melspec_2033.npy,"['Running_water', 'Speech']"
+1152,melspec_2034.npy,['Speech']
+1153,melspec_2035.npy,['Speech']
+1154,melspec_2036.npy,"['Frying', 'Speech']"
+1155,melspec_2037.npy,"['Frying', 'Speech']"
+1156,melspec_2038.npy,"['Running_water', 'Speech']"
+1157,melspec_2039.npy,['Speech']
+1158,melspec_204.npy,['Speech']
+1159,melspec_2040.npy,"['Dishes', 'Speech']"
+1160,melspec_2041.npy,"['Frying', 'Speech']"
+1161,melspec_2042.npy,"['Dishes', 'Frying', 'Speech']"
+1162,melspec_2043.npy,['Speech']
+1163,melspec_2044.npy,['Speech']
+1164,melspec_2045.npy,"['Running_water', 'Speech']"
+1165,melspec_2046.npy,"['Frying', 'Speech']"
+1166,melspec_2047.npy,['Speech']
+1167,melspec_2048.npy,"['Dishes', 'Frying', 'Speech']"
+1168,melspec_2049.npy,['Speech']
+1169,melspec_205.npy,"['Running_water', 'Speech']"
+1170,melspec_2050.npy,"['Dishes', 'Speech']"
+1171,melspec_2051.npy,"['Dishes', 'Running_water', 'Speech']"
+1172,melspec_2052.npy,"['Frying', 'Speech']"
+1173,melspec_2053.npy,['Speech']
+1174,melspec_2054.npy,"['Speech', 'Vacuum_cleaner']"
+1175,melspec_2055.npy,['Speech']
+1176,melspec_2056.npy,['Speech']
+1177,melspec_2057.npy,"['Running_water', 'Speech']"
+1178,melspec_2058.npy,"['Frying', 'Speech']"
+1179,melspec_2059.npy,['Speech']
+1180,melspec_206.npy,['Speech']
+1181,melspec_2060.npy,"['Running_water', 'Speech']"
+1182,melspec_2061.npy,['Speech']
+1183,melspec_2062.npy,['Speech']
+1184,melspec_2063.npy,"['Frying', 'Speech']"
+1185,melspec_2064.npy,['Speech']
+1186,melspec_2065.npy,['Speech']
+1187,melspec_2066.npy,['Speech']
+1188,melspec_2067.npy,['Speech']
+1189,melspec_2068.npy,"['Dishes', 'Speech']"
+1190,melspec_2069.npy,['Speech']
+1191,melspec_207.npy,"['Frying', 'Speech']"
+1192,melspec_2070.npy,"['Dishes', 'Running_water', 'Speech']"
+1193,melspec_2071.npy,['Speech']
+1194,melspec_2072.npy,"['Dishes', 'Speech']"
+1195,melspec_2073.npy,"['Running_water', 'Speech']"
+1196,melspec_2074.npy,"['Frying', 'Speech']"
+1197,melspec_2075.npy,"['Dishes', 'Frying', 'Speech']"
+1198,melspec_2076.npy,"['Dishes', 'Frying', 'Speech']"
+1199,melspec_2077.npy,"['Frying', 'Speech']"
+1200,melspec_2078.npy,['Speech']
+1201,melspec_2079.npy,['Speech']
+1202,melspec_208.npy,"['Running_water', 'Speech']"
+1203,melspec_2080.npy,['Speech']
+1204,melspec_2081.npy,['Speech']
+1205,melspec_2082.npy,"['Dishes', 'Speech']"
+1206,melspec_2083.npy,"['Frying', 'Speech']"
+1207,melspec_2084.npy,['Speech']
+1208,melspec_2085.npy,"['Dishes', 'Speech']"
+1209,melspec_2086.npy,"['Dishes', 'Speech']"
+1210,melspec_2087.npy,['Speech']
+1211,melspec_2088.npy,"['Frying', 'Speech']"
+1212,melspec_2089.npy,"['Dishes', 'Speech']"
+1213,melspec_209.npy,"['Dishes', 'Speech']"
+1214,melspec_2090.npy,['Speech']
+1215,melspec_2091.npy,"['Dishes', 'Speech']"
+1216,melspec_2092.npy,"['Running_water', 'Speech']"
+1217,melspec_2093.npy,"['Dishes', 'Speech']"
+1218,melspec_2094.npy,"['Frying', 'Speech']"
+1219,melspec_2095.npy,"['Dishes', 'Speech']"
+1220,melspec_2096.npy,"['Frying', 'Speech']"
+1221,melspec_2097.npy,"['Frying', 'Speech']"
+1222,melspec_2098.npy,['Speech']
+1223,melspec_2099.npy,"['Dishes', 'Speech']"
+1224,melspec_21.npy,['Speech']
+1225,melspec_210.npy,['Speech']
+1226,melspec_2100.npy,"['Running_water', 'Speech']"
+1227,melspec_2101.npy,['Speech']
+1228,melspec_2102.npy,"['Frying', 'Speech']"
+1229,melspec_2103.npy,['Speech']
+1230,melspec_2104.npy,['Speech']
+1231,melspec_2105.npy,"['Dishes', 'Speech']"
+1232,melspec_2106.npy,"['Frying', 'Speech']"
+1233,melspec_2107.npy,['Speech']
+1234,melspec_2108.npy,['Speech']
+1235,melspec_2109.npy,"['Running_water', 'Speech']"
+1236,melspec_211.npy,['Speech']
+1237,melspec_2110.npy,['Speech']
+1238,melspec_2111.npy,"['Running_water', 'Speech']"
+1239,melspec_2112.npy,['Speech']
+1240,melspec_2113.npy,"['Dishes', 'Speech']"
+1241,melspec_2114.npy,"['Dishes', 'Speech']"
+1242,melspec_2115.npy,"['Running_water', 'Speech']"
+1243,melspec_2116.npy,['Speech']
+1244,melspec_2117.npy,"['Running_water', 'Speech']"
+1245,melspec_2118.npy,"['Dishes', 'Frying', 'Speech']"
+1246,melspec_2119.npy,['Speech']
+1247,melspec_212.npy,"['Dishes', 'Speech']"
+1248,melspec_2120.npy,"['Running_water', 'Speech']"
+1249,melspec_2121.npy,['Speech']
+1250,melspec_2122.npy,['Speech']
+1251,melspec_2123.npy,['Speech']
+1252,melspec_2124.npy,"['Running_water', 'Speech']"
+1253,melspec_2125.npy,['Speech']
+1254,melspec_2126.npy,"['Running_water', 'Speech']"
+1255,melspec_2127.npy,"['Frying', 'Speech']"
+1256,melspec_2128.npy,"['Frying', 'Speech']"
+1257,melspec_2129.npy,"['Running_water', 'Speech']"
+1258,melspec_213.npy,"['Frying', 'Speech']"
+1259,melspec_2130.npy,"['Blender', 'Speech']"
+1260,melspec_2131.npy,['Speech']
+1261,melspec_2132.npy,"['Running_water', 'Speech']"
+1262,melspec_2133.npy,['Speech']
+1263,melspec_2134.npy,"['Frying', 'Speech']"
+1264,melspec_2135.npy,"['Running_water', 'Speech']"
+1265,melspec_2136.npy,['Speech']
+1266,melspec_2137.npy,['Speech']
+1267,melspec_2138.npy,"['Frying', 'Speech']"
+1268,melspec_2139.npy,['Speech']
+1269,melspec_214.npy,['Speech']
+1270,melspec_2140.npy,"['Running_water', 'Speech']"
+1271,melspec_2141.npy,"['Running_water', 'Speech']"
+1272,melspec_2142.npy,"['Running_water', 'Speech']"
+1273,melspec_2143.npy,"['Dishes', 'Speech']"
+1274,melspec_2144.npy,['Speech']
+1275,melspec_2145.npy,['Speech']
+1276,melspec_2146.npy,['Speech']
+1277,melspec_2147.npy,"['Frying', 'Speech']"
+1278,melspec_2148.npy,"['Dishes', 'Speech']"
+1279,melspec_2149.npy,['Speech']
+1280,melspec_215.npy,['Speech']
+1281,melspec_2150.npy,"['Dishes', 'Speech']"
+1282,melspec_2151.npy,"['Running_water', 'Speech']"
+1283,melspec_2152.npy,"['Frying', 'Speech']"
+1284,melspec_2153.npy,"['Speech', 'Vacuum_cleaner']"
+1285,melspec_2154.npy,"['Running_water', 'Speech']"
+1286,melspec_2155.npy,['Speech']
+1287,melspec_2156.npy,['Speech']
+1288,melspec_2157.npy,['Speech']
+1289,melspec_2158.npy,"['Dishes', 'Speech']"
+1290,melspec_2159.npy,"['Frying', 'Speech']"
+1291,melspec_216.npy,"['Dishes', 'Running_water', 'Speech']"
+1292,melspec_2160.npy,"['Frying', 'Speech']"
+1293,melspec_2161.npy,['Speech']
+1294,melspec_2162.npy,"['Dishes', 'Speech']"
+1295,melspec_2163.npy,"['Running_water', 'Speech']"
+1296,melspec_2164.npy,"['Dishes', 'Speech']"
+1297,melspec_2165.npy,['Speech']
+1298,melspec_2166.npy,"['Dishes', 'Running_water', 'Speech']"
+1299,melspec_2167.npy,['Speech']
+1300,melspec_2168.npy,"['Dishes', 'Speech']"
+1301,melspec_2169.npy,['Speech']
+1302,melspec_217.npy,"['Running_water', 'Speech']"
+1303,melspec_2170.npy,"['Dishes', 'Frying', 'Speech']"
+1304,melspec_2171.npy,['Speech']
+1305,melspec_2172.npy,['Speech']
+1306,melspec_2173.npy,['Speech']
+1307,melspec_2174.npy,"['Blender', 'Speech']"
+1308,melspec_2175.npy,['Speech']
+1309,melspec_2176.npy,"['Running_water', 'Speech']"
+1310,melspec_2177.npy,['Speech']
+1311,melspec_2178.npy,"['Running_water', 'Speech']"
+1312,melspec_2179.npy,['Speech']
+1313,melspec_218.npy,['Speech']
+1314,melspec_2180.npy,"['Running_water', 'Speech']"
+1315,melspec_2181.npy,['Speech']
+1316,melspec_2182.npy,"['Frying', 'Speech']"
+1317,melspec_2183.npy,"['Dishes', 'Speech']"
+1318,melspec_2184.npy,['Speech']
+1319,melspec_2185.npy,['Speech']
+1320,melspec_2186.npy,['Speech']
+1321,melspec_2187.npy,"['Frying', 'Speech']"
+1322,melspec_2188.npy,"['Dishes', 'Frying', 'Speech']"
+1323,melspec_2189.npy,['Speech']
+1324,melspec_219.npy,"['Running_water', 'Speech']"
+1325,melspec_2190.npy,"['Blender', 'Speech']"
+1326,melspec_2191.npy,['Speech']
+1327,melspec_2192.npy,"['Dishes', 'Speech']"
+1328,melspec_2193.npy,"['Frying', 'Speech']"
+1329,melspec_2194.npy,['Speech']
+1330,melspec_2195.npy,"['Frying', 'Speech']"
+1331,melspec_2196.npy,['Speech']
+1332,melspec_2197.npy,"['Dishes', 'Running_water', 'Speech']"
+1333,melspec_2198.npy,"['Dishes', 'Speech']"
+1334,melspec_2199.npy,"['Running_water', 'Speech']"
+1335,melspec_22.npy,['Speech']
+1336,melspec_220.npy,"['Frying', 'Speech']"
+1337,melspec_2200.npy,['Speech']
+1338,melspec_2201.npy,['Speech']
+1339,melspec_2202.npy,['Speech']
+1340,melspec_2203.npy,"['Dishes', 'Speech']"
+1341,melspec_2204.npy,['Speech']
+1342,melspec_2205.npy,['Speech']
+1343,melspec_2206.npy,"['Dishes', 'Frying', 'Speech']"
+1344,melspec_2207.npy,"['Dishes', 'Speech']"
+1345,melspec_2208.npy,['Speech']
+1346,melspec_2209.npy,"['Frying', 'Speech']"
+1347,melspec_221.npy,['Speech']
+1348,melspec_2210.npy,"['Running_water', 'Speech']"
+1349,melspec_2211.npy,['Speech']
+1350,melspec_2212.npy,['Speech']
+1351,melspec_2213.npy,"['Dishes', 'Speech']"
+1352,melspec_2214.npy,['Speech']
+1353,melspec_2215.npy,"['Dishes', 'Speech']"
+1354,melspec_2216.npy,['Speech']
+1355,melspec_2217.npy,['Speech']
+1356,melspec_2218.npy,['Speech']
+1357,melspec_2219.npy,['Speech']
+1358,melspec_222.npy,"['Frying', 'Speech']"
+1359,melspec_2220.npy,['Speech']
+1360,melspec_2221.npy,['Speech']
+1361,melspec_2222.npy,['Speech']
+1362,melspec_2223.npy,['Speech']
+1363,melspec_2224.npy,"['Dishes', 'Speech']"
+1364,melspec_2225.npy,['Speech']
+1365,melspec_2226.npy,['Speech']
+1366,melspec_2227.npy,['Speech']
+1367,melspec_2228.npy,['Speech']
+1368,melspec_2229.npy,['Speech']
+1369,melspec_223.npy,"['Dishes', 'Speech']"
+1370,melspec_2230.npy,"['Frying', 'Speech']"
+1371,melspec_2231.npy,['Speech']
+1372,melspec_2232.npy,"['Dishes', 'Speech']"
+1373,melspec_2233.npy,['Speech']
+1374,melspec_2234.npy,"['Dishes', 'Speech']"
+1375,melspec_2235.npy,"['Running_water', 'Speech']"
+1376,melspec_2236.npy,['Speech']
+1377,melspec_2237.npy,['Speech']
+1378,melspec_2238.npy,"['Running_water', 'Speech']"
+1379,melspec_2239.npy,['Speech']
+1380,melspec_224.npy,"['Frying', 'Speech']"
+1381,melspec_2240.npy,"['Frying', 'Speech']"
+1382,melspec_2241.npy,['Speech']
+1383,melspec_2242.npy,"['Running_water', 'Speech']"
+1384,melspec_2243.npy,['Speech']
+1385,melspec_2244.npy,"['Dishes', 'Speech']"
+1386,melspec_2245.npy,['Speech']
+1387,melspec_2246.npy,['Speech']
+1388,melspec_2247.npy,"['Dishes', 'Speech']"
+1389,melspec_2248.npy,['Speech']
+1390,melspec_2249.npy,['Speech']
+1391,melspec_225.npy,['Speech']
+1392,melspec_2250.npy,"['Dishes', 'Frying', 'Speech']"
+1393,melspec_2251.npy,"['Dishes', 'Speech']"
+1394,melspec_2252.npy,"['Dishes', 'Speech']"
+1395,melspec_2253.npy,"['Running_water', 'Speech']"
+1396,melspec_2254.npy,['Speech']
+1397,melspec_2255.npy,"['Running_water', 'Speech']"
+1398,melspec_2256.npy,['Speech']
+1399,melspec_2257.npy,"['Frying', 'Speech']"
+1400,melspec_2258.npy,['Speech']
+1401,melspec_2259.npy,"['Dishes', 'Speech']"
+1402,melspec_226.npy,['Speech']
+1403,melspec_2260.npy,"['Dishes', 'Speech']"
+1404,melspec_2261.npy,"['Running_water', 'Speech']"
+1405,melspec_2262.npy,"['Dishes', 'Speech']"
+1406,melspec_2263.npy,"['Dishes', 'Running_water', 'Speech']"
+1407,melspec_2264.npy,"['Dishes', 'Frying', 'Speech']"
+1408,melspec_2265.npy,['Speech']
+1409,melspec_2266.npy,['Speech']
+1410,melspec_2267.npy,"['Dishes', 'Speech']"
+1411,melspec_2268.npy,['Speech']
+1412,melspec_2269.npy,"['Dishes', 'Frying', 'Speech']"
+1413,melspec_227.npy,"['Dishes', 'Frying', 'Speech']"
+1414,melspec_2270.npy,"['Running_water', 'Speech']"
+1415,melspec_2271.npy,"['Running_water', 'Speech']"
+1416,melspec_2272.npy,['Speech']
+1417,melspec_2273.npy,"['Dishes', 'Speech']"
+1418,melspec_2274.npy,"['Dishes', 'Running_water', 'Speech']"
+1419,melspec_2275.npy,"['Running_water', 'Speech']"
+1420,melspec_2276.npy,['Speech']
+1421,melspec_2277.npy,['Speech']
+1422,melspec_2278.npy,"['Running_water', 'Speech']"
+1423,melspec_2279.npy,"['Frying', 'Speech']"
+1424,melspec_228.npy,"['Dishes', 'Speech']"
+1425,melspec_2280.npy,"['Frying', 'Speech']"
+1426,melspec_2281.npy,['Speech']
+1427,melspec_2282.npy,"['Dishes', 'Running_water', 'Speech']"
+1428,melspec_2283.npy,"['Dishes', 'Speech']"
+1429,melspec_2284.npy,['Speech']
+1430,melspec_2285.npy,"['Dishes', 'Speech']"
+1431,melspec_2286.npy,['Speech']
+1432,melspec_2287.npy,"['Running_water', 'Speech']"
+1433,melspec_2288.npy,"['Running_water', 'Speech']"
+1434,melspec_2289.npy,['Speech']
+1435,melspec_229.npy,['Speech']
+1436,melspec_2290.npy,"['Frying', 'Speech']"
+1437,melspec_2291.npy,['Speech']
+1438,melspec_2292.npy,"['Frying', 'Speech']"
+1439,melspec_2293.npy,"['Dishes', 'Speech']"
+1440,melspec_2294.npy,"['Frying', 'Speech']"
+1441,melspec_2295.npy,"['Blender', 'Speech']"
+1442,melspec_2296.npy,['Speech']
+1443,melspec_2297.npy,['Speech']
+1444,melspec_2298.npy,['Speech']
+1445,melspec_2299.npy,"['Running_water', 'Speech']"
+1446,melspec_23.npy,['Speech']
+1447,melspec_230.npy,"['Running_water', 'Speech']"
+1448,melspec_2300.npy,['Speech']
+1449,melspec_2301.npy,['Speech']
+1450,melspec_2302.npy,['Speech']
+1451,melspec_2303.npy,"['Dishes', 'Speech']"
+1452,melspec_2304.npy,"['Running_water', 'Speech']"
+1453,melspec_2305.npy,"['Frying', 'Speech']"
+1454,melspec_2306.npy,"['Running_water', 'Speech']"
+1455,melspec_2307.npy,"['Frying', 'Speech']"
+1456,melspec_2308.npy,"['Dishes', 'Speech']"
+1457,melspec_2309.npy,"['Running_water', 'Speech']"
+1458,melspec_231.npy,['Speech']
+1459,melspec_2310.npy,"['Running_water', 'Speech']"
+1460,melspec_2311.npy,"['Running_water', 'Speech']"
+1461,melspec_2312.npy,['Speech']
+1462,melspec_2313.npy,"['Dishes', 'Speech']"
+1463,melspec_2314.npy,['Speech']
+1464,melspec_2315.npy,['Speech']
+1465,melspec_2316.npy,['Speech']
+1466,melspec_2317.npy,['Speech']
+1467,melspec_2318.npy,"['Frying', 'Speech']"
+1468,melspec_2319.npy,"['Dishes', 'Speech']"
+1469,melspec_232.npy,['Speech']
+1470,melspec_2320.npy,"['Frying', 'Speech']"
+1471,melspec_2321.npy,"['Frying', 'Speech']"
+1472,melspec_2322.npy,"['Frying', 'Speech']"
+1473,melspec_2323.npy,"['Dishes', 'Running_water', 'Speech']"
+1474,melspec_2324.npy,"['Running_water', 'Speech']"
+1475,melspec_2325.npy,['Speech']
+1476,melspec_2326.npy,"['Dishes', 'Speech']"
+1477,melspec_2327.npy,['Speech']
+1478,melspec_2328.npy,"['Frying', 'Speech']"
+1479,melspec_2329.npy,['Speech']
+1480,melspec_233.npy,"['Frying', 'Speech']"
+1481,melspec_2330.npy,"['Dishes', 'Speech']"
+1482,melspec_2331.npy,['Speech']
+1483,melspec_2332.npy,"['Frying', 'Speech']"
+1484,melspec_2333.npy,"['Frying', 'Speech']"
+1485,melspec_2334.npy,"['Running_water', 'Speech']"
+1486,melspec_2335.npy,['Speech']
+1487,melspec_2336.npy,['Speech']
+1488,melspec_2337.npy,['Speech']
+1489,melspec_2338.npy,"['Dishes', 'Frying', 'Speech']"
+1490,melspec_2339.npy,['Speech']
+1491,melspec_234.npy,['Speech']
+1492,melspec_2340.npy,['Speech']
+1493,melspec_2341.npy,['Speech']
+1494,melspec_2342.npy,"['Speech', 'Vacuum_cleaner']"
+1495,melspec_2343.npy,"['Dishes', 'Speech']"
+1496,melspec_2344.npy,['Speech']
+1497,melspec_2345.npy,['Speech']
+1498,melspec_2346.npy,['Speech']
+1499,melspec_2347.npy,"['Running_water', 'Speech']"
+1500,melspec_2348.npy,['Speech']
+1501,melspec_2349.npy,['Speech']
+1502,melspec_235.npy,"['Dishes', 'Speech']"
+1503,melspec_2350.npy,"['Running_water', 'Speech']"
+1504,melspec_2351.npy,['Speech']
+1505,melspec_2352.npy,"['Running_water', 'Speech']"
+1506,melspec_2353.npy,['Speech']
+1507,melspec_2354.npy,['Speech']
+1508,melspec_2355.npy,['Speech']
+1509,melspec_2356.npy,['Speech']
+1510,melspec_2357.npy,['Speech']
+1511,melspec_2358.npy,"['Dishes', 'Speech']"
+1512,melspec_2359.npy,['Speech']
+1513,melspec_236.npy,['Speech']
+1514,melspec_2360.npy,['Speech']
+1515,melspec_2361.npy,"['Running_water', 'Speech']"
+1516,melspec_2362.npy,['Speech']
+1517,melspec_2363.npy,['Speech']
+1518,melspec_2364.npy,"['Running_water', 'Speech']"
+1519,melspec_2365.npy,"['Dishes', 'Frying', 'Speech']"
+1520,melspec_2366.npy,"['Blender', 'Speech']"
+1521,melspec_2367.npy,"['Dishes', 'Speech']"
+1522,melspec_2368.npy,"['Dishes', 'Frying', 'Speech']"
+1523,melspec_2369.npy,['Speech']
+1524,melspec_237.npy,['Speech']
+1525,melspec_2370.npy,"['Blender', 'Speech']"
+1526,melspec_2371.npy,['Speech']
+1527,melspec_2372.npy,"['Speech', 'Vacuum_cleaner']"
+1528,melspec_2373.npy,['Speech']
+1529,melspec_2374.npy,"['Frying', 'Speech']"
+1530,melspec_2375.npy,"['Running_water', 'Speech']"
+1531,melspec_2376.npy,['Speech']
+1532,melspec_2377.npy,"['Dishes', 'Running_water', 'Speech']"
+1533,melspec_2378.npy,['Speech']
+1534,melspec_2379.npy,"['Frying', 'Speech']"
+1535,melspec_238.npy,['Speech']
+1536,melspec_2380.npy,['Speech']
+1537,melspec_2381.npy,['Speech']
+1538,melspec_2382.npy,['Speech']
+1539,melspec_2383.npy,['Speech']
+1540,melspec_2384.npy,['Speech']
+1541,melspec_2385.npy,['Speech']
+1542,melspec_2386.npy,"['Frying', 'Speech']"
+1543,melspec_2387.npy,"['Frying', 'Speech']"
+1544,melspec_2388.npy,['Speech']
+1545,melspec_2389.npy,"['Running_water', 'Speech']"
+1546,melspec_239.npy,"['Dishes', 'Running_water', 'Speech']"
+1547,melspec_2390.npy,['Speech']
+1548,melspec_2391.npy,['Speech']
+1549,melspec_2392.npy,['Speech']
+1550,melspec_2393.npy,"['Dishes', 'Speech']"
+1551,melspec_2394.npy,['Speech']
+1552,melspec_2395.npy,"['Dishes', 'Frying', 'Speech']"
+1553,melspec_2396.npy,"['Dishes', 'Running_water', 'Speech']"
+1554,melspec_2397.npy,"['Dishes', 'Frying', 'Speech']"
+1555,melspec_2398.npy,"['Dishes', 'Frying', 'Speech']"
+1556,melspec_2399.npy,"['Running_water', 'Speech']"
+1557,melspec_24.npy,['Speech']
+1558,melspec_240.npy,['Speech']
+1559,melspec_2400.npy,"['Running_water', 'Speech']"
+1560,melspec_2401.npy,['Speech']
+1561,melspec_2402.npy,"['Dishes', 'Frying', 'Speech']"
+1562,melspec_2403.npy,"['Frying', 'Speech']"
+1563,melspec_2404.npy,['Speech']
+1564,melspec_2405.npy,['Speech']
+1565,melspec_2406.npy,['Speech']
+1566,melspec_2407.npy,"['Dishes', 'Speech']"
+1567,melspec_2408.npy,"['Frying', 'Speech']"
+1568,melspec_2409.npy,['Speech']
+1569,melspec_241.npy,['Speech']
+1570,melspec_2410.npy,['Speech']
+1571,melspec_2411.npy,['Speech']
+1572,melspec_2412.npy,['Speech']
+1573,melspec_2413.npy,"['Dishes', 'Frying', 'Speech']"
+1574,melspec_2414.npy,"['Running_water', 'Speech']"
+1575,melspec_2415.npy,"['Dishes', 'Running_water', 'Speech']"
+1576,melspec_2416.npy,['Speech']
+1577,melspec_2417.npy,['Speech']
+1578,melspec_2418.npy,"['Running_water', 'Speech']"
+1579,melspec_2419.npy,['Speech']
+1580,melspec_242.npy,['Speech']
+1581,melspec_2420.npy,"['Running_water', 'Speech']"
+1582,melspec_2421.npy,"['Dishes', 'Speech']"
+1583,melspec_2422.npy,"['Dishes', 'Frying', 'Speech']"
+1584,melspec_2423.npy,"['Blender', 'Speech']"
+1585,melspec_2424.npy,"['Running_water', 'Speech']"
+1586,melspec_2425.npy,"['Frying', 'Speech']"
+1587,melspec_2426.npy,"['Dishes', 'Speech']"
+1588,melspec_2427.npy,"['Frying', 'Speech']"
+1589,melspec_2428.npy,"['Frying', 'Speech']"
+1590,melspec_2429.npy,['Speech']
+1591,melspec_243.npy,['Speech']
+1592,melspec_2430.npy,['Speech']
+1593,melspec_2431.npy,['Speech']
+1594,melspec_2432.npy,['Speech']
+1595,melspec_2433.npy,['Speech']
+1596,melspec_2434.npy,['Speech']
+1597,melspec_2435.npy,['Speech']
+1598,melspec_2436.npy,"['Dishes', 'Frying', 'Speech']"
+1599,melspec_2437.npy,['Speech']
+1600,melspec_2438.npy,"['Dishes', 'Frying', 'Speech']"
+1601,melspec_2439.npy,['Speech']
+1602,melspec_244.npy,"['Dishes', 'Running_water', 'Speech']"
+1603,melspec_2440.npy,"['Dishes', 'Speech']"
+1604,melspec_2441.npy,['Speech']
+1605,melspec_2442.npy,"['Running_water', 'Speech']"
+1606,melspec_2443.npy,['Speech']
+1607,melspec_2444.npy,"['Frying', 'Speech']"
+1608,melspec_2445.npy,"['Blender', 'Speech']"
+1609,melspec_2446.npy,"['Running_water', 'Speech']"
+1610,melspec_2447.npy,['Speech']
+1611,melspec_2448.npy,"['Dishes', 'Frying', 'Speech']"
+1612,melspec_2449.npy,['Speech']
+1613,melspec_245.npy,"['Running_water', 'Speech']"
+1614,melspec_2450.npy,['Speech']
+1615,melspec_2451.npy,['Speech']
+1616,melspec_2452.npy,"['Dishes', 'Frying', 'Speech']"
+1617,melspec_2453.npy,['Speech']
+1618,melspec_2454.npy,['Speech']
+1619,melspec_2455.npy,"['Running_water', 'Speech']"
+1620,melspec_2456.npy,"['Running_water', 'Speech']"
+1621,melspec_2457.npy,"['Running_water', 'Speech']"
+1622,melspec_2458.npy,"['Running_water', 'Speech']"
+1623,melspec_2459.npy,"['Dishes', 'Speech']"
+1624,melspec_246.npy,"['Dishes', 'Running_water', 'Speech']"
+1625,melspec_2460.npy,['Speech']
+1626,melspec_2461.npy,"['Running_water', 'Speech']"
+1627,melspec_2462.npy,"['Alarm_bell_ringing', 'Speech']"
+1628,melspec_2463.npy,['Speech']
+1629,melspec_2464.npy,['Speech']
+1630,melspec_2465.npy,['Speech']
+1631,melspec_2466.npy,['Speech']
+1632,melspec_2467.npy,['Speech']
+1633,melspec_2468.npy,"['Running_water', 'Speech']"
+1634,melspec_2469.npy,"['Dishes', 'Frying', 'Speech']"
+1635,melspec_247.npy,"['Dishes', 'Speech']"
+1636,melspec_2470.npy,"['Frying', 'Speech']"
+1637,melspec_2471.npy,"['Dishes', 'Speech']"
+1638,melspec_2472.npy,['Speech']
+1639,melspec_2473.npy,"['Frying', 'Speech']"
+1640,melspec_2474.npy,"['Dishes', 'Speech']"
+1641,melspec_2475.npy,['Speech']
+1642,melspec_2476.npy,['Speech']
+1643,melspec_2477.npy,"['Cat', 'Running_water', 'Speech']"
+1644,melspec_2478.npy,['Speech']
+1645,melspec_2479.npy,['Speech']
+1646,melspec_248.npy,['Speech']
+1647,melspec_2480.npy,['Speech']
+1648,melspec_2481.npy,"['Dishes', 'Speech']"
+1649,melspec_2482.npy,"['Frying', 'Speech']"
+1650,melspec_2483.npy,['Speech']
+1651,melspec_2484.npy,"['Dishes', 'Speech']"
+1652,melspec_2485.npy,"['Dishes', 'Speech']"
+1653,melspec_2486.npy,"['Speech', 'Vacuum_cleaner']"
+1654,melspec_2487.npy,"['Dishes', 'Frying', 'Speech']"
+1655,melspec_2488.npy,"['Running_water', 'Speech']"
+1656,melspec_2489.npy,"['Running_water', 'Speech']"
+1657,melspec_249.npy,['Speech']
+1658,melspec_2490.npy,"['Frying', 'Speech']"
+1659,melspec_2491.npy,['Speech']
+1660,melspec_2492.npy,"['Running_water', 'Speech']"
+1661,melspec_2493.npy,['Speech']
+1662,melspec_2494.npy,['Speech']
+1663,melspec_2495.npy,['Speech']
+1664,melspec_2496.npy,"['Frying', 'Speech']"
+1665,melspec_2497.npy,"['Dishes', 'Speech']"
+1666,melspec_2498.npy,"['Running_water', 'Speech']"
+1667,melspec_2499.npy,"['Dishes', 'Running_water', 'Speech']"
+1668,melspec_25.npy,"['Dishes', 'Frying', 'Speech']"
+1669,melspec_250.npy,"['Frying', 'Speech']"
+1670,melspec_251.npy,['Speech']
+1671,melspec_252.npy,"['Running_water', 'Speech']"
+1672,melspec_253.npy,['Speech']
+1673,melspec_254.npy,['Speech']
+1674,melspec_255.npy,"['Dishes', 'Frying', 'Speech']"
+1675,melspec_256.npy,['Speech']
+1676,melspec_257.npy,['Speech']
+1677,melspec_258.npy,['Speech']
+1678,melspec_259.npy,"['Dishes', 'Frying', 'Speech']"
+1679,melspec_26.npy,"['Running_water', 'Speech']"
+1680,melspec_260.npy,['Speech']
+1681,melspec_261.npy,['Speech']
+1682,melspec_262.npy,"['Dishes', 'Speech']"
+1683,melspec_263.npy,"['Dishes', 'Speech']"
+1684,melspec_264.npy,"['Frying', 'Speech']"
+1685,melspec_265.npy,"['Running_water', 'Speech']"
+1686,melspec_266.npy,['Speech']
+1687,melspec_267.npy,"['Running_water', 'Speech']"
+1688,melspec_268.npy,"['Speech', 'Vacuum_cleaner']"
+1689,melspec_269.npy,['Speech']
+1690,melspec_27.npy,['Speech']
+1691,melspec_270.npy,"['Dishes', 'Frying', 'Speech']"
+1692,melspec_271.npy,"['Frying', 'Speech']"
+1693,melspec_272.npy,"['Dishes', 'Speech']"
+1694,melspec_273.npy,"['Dishes', 'Running_water', 'Speech']"
+1695,melspec_274.npy,"['Running_water', 'Speech']"
+1696,melspec_275.npy,"['Blender', 'Speech']"
+1697,melspec_276.npy,"['Dishes', 'Speech']"
+1698,melspec_277.npy,"['Running_water', 'Speech']"
+1699,melspec_278.npy,"['Dishes', 'Frying', 'Speech']"
+1700,melspec_279.npy,"['Running_water', 'Speech']"
+1701,melspec_28.npy,['Speech']
+1702,melspec_280.npy,"['Dishes', 'Frying', 'Speech']"
+1703,melspec_281.npy,['Speech']
+1704,melspec_282.npy,"['Dishes', 'Speech']"
+1705,melspec_283.npy,"['Running_water', 'Speech', 'Vacuum_cleaner']"
+1706,melspec_284.npy,"['Frying', 'Speech']"
+1707,melspec_285.npy,"['Running_water', 'Speech']"
+1708,melspec_286.npy,['Speech']
+1709,melspec_287.npy,"['Running_water', 'Speech']"
+1710,melspec_288.npy,"['Speech', 'Vacuum_cleaner']"
+1711,melspec_289.npy,['Speech']
+1712,melspec_29.npy,"['Blender', 'Speech']"
+1713,melspec_290.npy,['Speech']
+1714,melspec_291.npy,['Speech']
+1715,melspec_292.npy,"['Dishes', 'Speech']"
+1716,melspec_293.npy,['Speech']
+1717,melspec_294.npy,"['Running_water', 'Speech']"
+1718,melspec_295.npy,"['Running_water', 'Speech']"
+1719,melspec_296.npy,['Speech']
+1720,melspec_297.npy,"['Dishes', 'Running_water', 'Speech']"
+1721,melspec_298.npy,"['Frying', 'Speech']"
+1722,melspec_299.npy,['Speech']
+1723,melspec_3.npy,"['Blender', 'Speech']"
+1724,melspec_30.npy,['Speech']
+1725,melspec_300.npy,['Speech']
+1726,melspec_301.npy,['Speech']
+1727,melspec_302.npy,"['Dishes', 'Speech']"
+1728,melspec_303.npy,['Speech']
+1729,melspec_304.npy,"['Frying', 'Speech']"
+1730,melspec_305.npy,"['Dishes', 'Frying', 'Speech']"
+1731,melspec_306.npy,['Speech']
+1732,melspec_307.npy,['Speech']
+1733,melspec_308.npy,"['Dishes', 'Speech']"
+1734,melspec_309.npy,['Speech']
+1735,melspec_31.npy,"['Dishes', 'Frying', 'Speech']"
+1736,melspec_310.npy,"['Blender', 'Speech']"
+1737,melspec_311.npy,"['Dishes', 'Speech']"
+1738,melspec_312.npy,"['Dishes', 'Frying', 'Speech']"
+1739,melspec_313.npy,"['Frying', 'Speech']"
+1740,melspec_314.npy,"['Running_water', 'Speech']"
+1741,melspec_315.npy,"['Dishes', 'Frying', 'Speech']"
+1742,melspec_316.npy,"['Running_water', 'Speech']"
+1743,melspec_317.npy,['Speech']
+1744,melspec_318.npy,"['Dishes', 'Speech']"
+1745,melspec_319.npy,"['Running_water', 'Speech']"
+1746,melspec_32.npy,['Speech']
+1747,melspec_320.npy,['Speech']
+1748,melspec_321.npy,['Speech']
+1749,melspec_322.npy,['Speech']
+1750,melspec_323.npy,['Speech']
+1751,melspec_324.npy,['Speech']
+1752,melspec_325.npy,"['Dishes', 'Frying', 'Speech']"
+1753,melspec_326.npy,"['Dishes', 'Speech']"
+1754,melspec_327.npy,['Speech']
+1755,melspec_328.npy,"['Dishes', 'Speech']"
+1756,melspec_329.npy,['Speech']
+1757,melspec_33.npy,"['Dishes', 'Speech']"
+1758,melspec_330.npy,['Speech']
+1759,melspec_331.npy,['Speech']
+1760,melspec_332.npy,"['Running_water', 'Speech']"
+1761,melspec_333.npy,"['Frying', 'Speech']"
+1762,melspec_334.npy,['Speech']
+1763,melspec_335.npy,['Speech']
+1764,melspec_336.npy,"['Frying', 'Speech']"
+1765,melspec_337.npy,"['Running_water', 'Speech']"
+1766,melspec_338.npy,['Speech']
+1767,melspec_339.npy,"['Running_water', 'Speech']"
+1768,melspec_34.npy,['Speech']
+1769,melspec_340.npy,"['Running_water', 'Speech']"
+1770,melspec_341.npy,"['Dishes', 'Speech']"
+1771,melspec_342.npy,"['Running_water', 'Speech']"
+1772,melspec_343.npy,['Speech']
+1773,melspec_344.npy,"['Frying', 'Speech']"
+1774,melspec_345.npy,['Speech']
+1775,melspec_346.npy,"['Dishes', 'Speech']"
+1776,melspec_347.npy,"['Frying', 'Speech']"
+1777,melspec_348.npy,"['Frying', 'Speech']"
+1778,melspec_349.npy,['Speech']
+1779,melspec_35.npy,['Speech']
+1780,melspec_350.npy,"['Dishes', 'Running_water', 'Speech']"
+1781,melspec_351.npy,['Speech']
+1782,melspec_352.npy,"['Dishes', 'Frying', 'Speech']"
+1783,melspec_353.npy,['Speech']
+1784,melspec_354.npy,['Speech']
+1785,melspec_355.npy,['Speech']
+1786,melspec_356.npy,['Speech']
+1787,melspec_357.npy,"['Frying', 'Speech']"
+1788,melspec_358.npy,['Speech']
+1789,melspec_359.npy,"['Dishes', 'Frying', 'Speech']"
+1790,melspec_36.npy,['Speech']
+1791,melspec_360.npy,"['Dishes', 'Frying', 'Speech']"
+1792,melspec_361.npy,['Speech']
+1793,melspec_362.npy,['Speech']
+1794,melspec_363.npy,"['Frying', 'Speech']"
+1795,melspec_364.npy,['Speech']
+1796,melspec_365.npy,['Speech']
+1797,melspec_366.npy,['Speech']
+1798,melspec_367.npy,['Speech']
+1799,melspec_368.npy,['Speech']
+1800,melspec_369.npy,"['Frying', 'Speech']"
+1801,melspec_37.npy,"['Dishes', 'Frying', 'Speech']"
+1802,melspec_370.npy,['Speech']
+1803,melspec_371.npy,"['Frying', 'Speech']"
+1804,melspec_372.npy,['Speech']
+1805,melspec_373.npy,['Speech']
+1806,melspec_374.npy,"['Dishes', 'Speech']"
+1807,melspec_375.npy,['Speech']
+1808,melspec_376.npy,"['Dishes', 'Speech']"
+1809,melspec_377.npy,['Speech']
+1810,melspec_378.npy,"['Dishes', 'Speech']"
+1811,melspec_379.npy,['Speech']
+1812,melspec_38.npy,"['Running_water', 'Speech']"
+1813,melspec_380.npy,"['Dishes', 'Speech']"
+1814,melspec_381.npy,['Speech']
+1815,melspec_382.npy,"['Dishes', 'Speech']"
+1816,melspec_383.npy,['Speech']
+1817,melspec_384.npy,"['Running_water', 'Speech']"
+1818,melspec_385.npy,['Speech']
+1819,melspec_386.npy,"['Dishes', 'Frying', 'Speech']"
+1820,melspec_387.npy,"['Dishes', 'Speech']"
+1821,melspec_388.npy,['Speech']
+1822,melspec_389.npy,"['Dishes', 'Speech']"
+1823,melspec_39.npy,"['Frying', 'Speech']"
+1824,melspec_390.npy,"['Dishes', 'Frying', 'Speech']"
+1825,melspec_391.npy,['Speech']
+1826,melspec_392.npy,"['Dishes', 'Speech']"
+1827,melspec_393.npy,['Speech']
+1828,melspec_394.npy,['Speech']
+1829,melspec_395.npy,"['Dishes', 'Speech']"
+1830,melspec_396.npy,"['Running_water', 'Speech']"
+1831,melspec_397.npy,"['Frying', 'Speech']"
+1832,melspec_398.npy,['Speech']
+1833,melspec_399.npy,['Speech']
+1834,melspec_4.npy,"['Frying', 'Speech']"
+1835,melspec_40.npy,"['Running_water', 'Speech']"
+1836,melspec_400.npy,['Speech']
+1837,melspec_401.npy,['Speech']
+1838,melspec_402.npy,['Speech']
+1839,melspec_403.npy,['Speech']
+1840,melspec_404.npy,['Speech']
+1841,melspec_405.npy,['Speech']
+1842,melspec_406.npy,['Speech']
+1843,melspec_407.npy,"['Running_water', 'Speech']"
+1844,melspec_408.npy,"['Frying', 'Speech']"
+1845,melspec_409.npy,"['Running_water', 'Speech']"
+1846,melspec_41.npy,"['Running_water', 'Speech']"
+1847,melspec_410.npy,"['Dishes', 'Frying', 'Speech']"
+1848,melspec_411.npy,"['Frying', 'Speech']"
+1849,melspec_412.npy,"['Dishes', 'Frying', 'Speech']"
+1850,melspec_413.npy,['Speech']
+1851,melspec_414.npy,"['Dishes', 'Speech']"
+1852,melspec_415.npy,"['Frying', 'Speech']"
+1853,melspec_416.npy,"['Frying', 'Speech']"
+1854,melspec_417.npy,"['Frying', 'Speech']"
+1855,melspec_418.npy,"['Dishes', 'Speech']"
+1856,melspec_419.npy,['Speech']
+1857,melspec_42.npy,"['Frying', 'Speech']"
+1858,melspec_420.npy,['Speech']
+1859,melspec_421.npy,['Speech']
+1860,melspec_422.npy,['Speech']
+1861,melspec_423.npy,"['Frying', 'Speech']"
+1862,melspec_424.npy,"['Running_water', 'Speech']"
+1863,melspec_425.npy,"['Blender', 'Speech']"
+1864,melspec_426.npy,"['Frying', 'Speech']"
+1865,melspec_427.npy,"['Running_water', 'Speech']"
+1866,melspec_428.npy,['Speech']
+1867,melspec_429.npy,"['Dishes', 'Running_water', 'Speech']"
+1868,melspec_43.npy,"['Running_water', 'Speech']"
+1869,melspec_430.npy,"['Running_water', 'Speech']"
+1870,melspec_431.npy,['Speech']
+1871,melspec_432.npy,"['Dishes', 'Speech']"
+1872,melspec_433.npy,['Speech']
+1873,melspec_434.npy,['Speech']
+1874,melspec_435.npy,['Speech']
+1875,melspec_436.npy,"['Running_water', 'Speech']"
+1876,melspec_437.npy,['Speech']
+1877,melspec_438.npy,['Speech']
+1878,melspec_439.npy,['Speech']
+1879,melspec_44.npy,['Speech']
+1880,melspec_440.npy,['Speech']
+1881,melspec_441.npy,"['Dishes', 'Speech']"
+1882,melspec_442.npy,"['Blender', 'Speech']"
+1883,melspec_443.npy,"['Frying', 'Speech']"
+1884,melspec_444.npy,"['Dishes', 'Speech']"
+1885,melspec_445.npy,['Speech']
+1886,melspec_446.npy,"['Frying', 'Speech']"
+1887,melspec_447.npy,['Speech']
+1888,melspec_448.npy,['Speech']
+1889,melspec_449.npy,['Speech']
+1890,melspec_45.npy,['Speech']
+1891,melspec_450.npy,"['Dishes', 'Running_water', 'Speech']"
+1892,melspec_451.npy,['Speech']
+1893,melspec_452.npy,['Speech']
+1894,melspec_453.npy,"['Frying', 'Speech']"
+1895,melspec_454.npy,"['Dishes', 'Speech']"
+1896,melspec_455.npy,['Speech']
+1897,melspec_456.npy,"['Running_water', 'Speech']"
+1898,melspec_457.npy,"['Running_water', 'Speech']"
+1899,melspec_458.npy,"['Dishes', 'Speech']"
+1900,melspec_459.npy,"['Frying', 'Speech']"
+1901,melspec_46.npy,"['Dishes', 'Electric_shaver_toothbrush', 'Frying', 'Speech']"
+1902,melspec_460.npy,"['Frying', 'Speech']"
+1903,melspec_461.npy,"['Dishes', 'Speech']"
+1904,melspec_462.npy,['Speech']
+1905,melspec_463.npy,"['Dishes', 'Speech']"
+1906,melspec_464.npy,"['Frying', 'Speech']"
+1907,melspec_465.npy,"['Dishes', 'Frying', 'Speech']"
+1908,melspec_466.npy,"['Dishes', 'Speech']"
+1909,melspec_467.npy,['Speech']
+1910,melspec_468.npy,"['Speech', 'Vacuum_cleaner']"
+1911,melspec_469.npy,['Speech']
+1912,melspec_47.npy,"['Dishes', 'Speech']"
+1913,melspec_470.npy,"['Dishes', 'Speech']"
+1914,melspec_471.npy,['Speech']
+1915,melspec_472.npy,"['Dishes', 'Speech']"
+1916,melspec_473.npy,['Speech']
+1917,melspec_474.npy,"['Dishes', 'Speech']"
+1918,melspec_475.npy,"['Dishes', 'Speech']"
+1919,melspec_476.npy,"['Dishes', 'Speech']"
+1920,melspec_477.npy,['Speech']
+1921,melspec_478.npy,"['Dishes', 'Frying', 'Speech']"
+1922,melspec_479.npy,"['Running_water', 'Speech']"
+1923,melspec_48.npy,"['Frying', 'Speech']"
+1924,melspec_480.npy,"['Dishes', 'Frying', 'Speech']"
+1925,melspec_481.npy,"['Dishes', 'Running_water', 'Speech']"
+1926,melspec_482.npy,['Speech']
+1927,melspec_483.npy,"['Frying', 'Speech']"
+1928,melspec_484.npy,"['Dishes', 'Frying', 'Speech']"
+1929,melspec_485.npy,"['Frying', 'Speech']"
+1930,melspec_486.npy,['Speech']
+1931,melspec_487.npy,"['Frying', 'Speech']"
+1932,melspec_488.npy,['Speech']
+1933,melspec_489.npy,['Speech']
+1934,melspec_49.npy,"['Dishes', 'Frying', 'Speech']"
+1935,melspec_490.npy,"['Frying', 'Speech']"
+1936,melspec_491.npy,['Speech']
+1937,melspec_492.npy,['Speech']
+1938,melspec_493.npy,['Speech']
+1939,melspec_494.npy,"['Dishes', 'Speech']"
+1940,melspec_495.npy,"['Frying', 'Speech']"
+1941,melspec_496.npy,['Speech']
+1942,melspec_497.npy,"['Running_water', 'Speech']"
+1943,melspec_498.npy,['Speech']
+1944,melspec_499.npy,"['Dishes', 'Speech']"
+1945,melspec_5.npy,['Speech']
+1946,melspec_50.npy,['Speech']
+1947,melspec_500.npy,"['Frying', 'Speech']"
+1948,melspec_501.npy,"['Running_water', 'Speech']"
+1949,melspec_502.npy,['Speech']
+1950,melspec_503.npy,"['Frying', 'Speech']"
+1951,melspec_504.npy,['Speech']
+1952,melspec_505.npy,['Speech']
+1953,melspec_506.npy,['Speech']
+1954,melspec_507.npy,['Speech']
+1955,melspec_508.npy,['Speech']
+1956,melspec_509.npy,"['Running_water', 'Speech']"
+1957,melspec_51.npy,['Speech']
+1958,melspec_510.npy,['Speech']
+1959,melspec_511.npy,['Speech']
+1960,melspec_512.npy,['Speech']
+1961,melspec_513.npy,"['Dishes', 'Speech']"
+1962,melspec_514.npy,['Speech']
+1963,melspec_515.npy,['Speech']
+1964,melspec_516.npy,['Speech']
+1965,melspec_517.npy,['Speech']
+1966,melspec_518.npy,"['Running_water', 'Speech']"
+1967,melspec_519.npy,['Speech']
+1968,melspec_52.npy,"['Frying', 'Speech']"
+1969,melspec_520.npy,"['Running_water', 'Speech']"
+1970,melspec_521.npy,"['Blender', 'Speech']"
+1971,melspec_522.npy,"['Dishes', 'Speech']"
+1972,melspec_523.npy,['Speech']
+1973,melspec_524.npy,"['Frying', 'Speech']"
+1974,melspec_525.npy,"['Running_water', 'Speech']"
+1975,melspec_526.npy,['Speech']
+1976,melspec_527.npy,"['Dishes', 'Speech']"
+1977,melspec_528.npy,"['Running_water', 'Speech']"
+1978,melspec_529.npy,"['Blender', 'Running_water', 'Speech']"
+1979,melspec_53.npy,"['Dishes', 'Speech']"
+1980,melspec_530.npy,"['Dishes', 'Speech']"
+1981,melspec_531.npy,"['Frying', 'Speech']"
+1982,melspec_532.npy,"['Dishes', 'Speech']"
+1983,melspec_533.npy,"['Dishes', 'Frying', 'Speech']"
+1984,melspec_534.npy,"['Running_water', 'Speech']"
+1985,melspec_535.npy,['Speech']
+1986,melspec_536.npy,['Speech']
+1987,melspec_537.npy,"['Dishes', 'Speech']"
+1988,melspec_538.npy,['Speech']
+1989,melspec_539.npy,['Speech']
+1990,melspec_54.npy,"['Dishes', 'Speech']"
+1991,melspec_540.npy,['Speech']
+1992,melspec_541.npy,['Speech']
+1993,melspec_542.npy,['Speech']
+1994,melspec_543.npy,"['Running_water', 'Speech']"
+1995,melspec_544.npy,['Speech']
+1996,melspec_545.npy,['Speech']
+1997,melspec_546.npy,"['Dishes', 'Speech']"
+1998,melspec_547.npy,['Speech']
+1999,melspec_548.npy,"['Dishes', 'Speech']"
+2000,melspec_549.npy,['Speech']
+2001,melspec_55.npy,['Speech']
+2002,melspec_550.npy,"['Frying', 'Speech']"
+2003,melspec_551.npy,['Speech']
+2004,melspec_552.npy,['Speech']
+2005,melspec_553.npy,"['Frying', 'Speech']"
+2006,melspec_554.npy,"['Dishes', 'Speech']"
+2007,melspec_555.npy,"['Dishes', 'Frying', 'Speech']"
+2008,melspec_556.npy,['Speech']
+2009,melspec_557.npy,"['Dishes', 'Speech']"
+2010,melspec_558.npy,"['Frying', 'Speech']"
+2011,melspec_559.npy,"['Dishes', 'Speech']"
+2012,melspec_56.npy,['Speech']
+2013,melspec_560.npy,['Speech']
+2014,melspec_561.npy,['Speech']
+2015,melspec_562.npy,"['Frying', 'Speech']"
+2016,melspec_563.npy,['Speech']
+2017,melspec_564.npy,['Speech']
+2018,melspec_565.npy,"['Dishes', 'Speech']"
+2019,melspec_566.npy,['Speech']
+2020,melspec_567.npy,['Speech']
+2021,melspec_568.npy,"['Frying', 'Speech']"
+2022,melspec_569.npy,"['Blender', 'Running_water', 'Speech']"
+2023,melspec_57.npy,"['Dishes', 'Frying', 'Speech']"
+2024,melspec_570.npy,"['Frying', 'Speech']"
+2025,melspec_571.npy,"['Frying', 'Speech']"
+2026,melspec_572.npy,['Speech']
+2027,melspec_573.npy,['Speech']
+2028,melspec_574.npy,"['Dishes', 'Frying', 'Speech']"
+2029,melspec_575.npy,"['Dishes', 'Speech']"
+2030,melspec_576.npy,"['Dishes', 'Frying', 'Speech']"
+2031,melspec_577.npy,"['Frying', 'Speech']"
+2032,melspec_578.npy,"['Running_water', 'Speech']"
+2033,melspec_579.npy,['Speech']
+2034,melspec_58.npy,['Speech']
+2035,melspec_580.npy,['Speech']
+2036,melspec_581.npy,"['Running_water', 'Speech']"
+2037,melspec_582.npy,['Speech']
+2038,melspec_583.npy,['Speech']
+2039,melspec_584.npy,"['Running_water', 'Speech']"
+2040,melspec_585.npy,"['Frying', 'Speech']"
+2041,melspec_586.npy,"['Frying', 'Speech']"
+2042,melspec_587.npy,['Speech']
+2043,melspec_588.npy,"['Running_water', 'Speech']"
+2044,melspec_589.npy,['Speech']
+2045,melspec_59.npy,"['Running_water', 'Speech']"
+2046,melspec_590.npy,"['Frying', 'Speech']"
+2047,melspec_591.npy,['Speech']
+2048,melspec_592.npy,"['Dishes', 'Frying', 'Speech']"
+2049,melspec_593.npy,"['Running_water', 'Speech']"
+2050,melspec_594.npy,['Speech']
+2051,melspec_595.npy,['Speech']
+2052,melspec_596.npy,"['Dishes', 'Running_water', 'Speech']"
+2053,melspec_597.npy,['Speech']
+2054,melspec_598.npy,"['Dishes', 'Frying', 'Speech']"
+2055,melspec_599.npy,"['Running_water', 'Speech']"
+2056,melspec_6.npy,['Speech']
+2057,melspec_60.npy,['Speech']
+2058,melspec_600.npy,['Speech']
+2059,melspec_601.npy,"['Running_water', 'Speech']"
+2060,melspec_602.npy,['Speech']
+2061,melspec_603.npy,['Speech']
+2062,melspec_604.npy,['Speech']
+2063,melspec_605.npy,['Speech']
+2064,melspec_606.npy,['Speech']
+2065,melspec_607.npy,['Speech']
+2066,melspec_608.npy,"['Frying', 'Speech']"
+2067,melspec_609.npy,"['Running_water', 'Speech']"
+2068,melspec_61.npy,"['Running_water', 'Speech']"
+2069,melspec_610.npy,['Speech']
+2070,melspec_611.npy,['Speech']
+2071,melspec_612.npy,"['Dishes', 'Speech']"
+2072,melspec_613.npy,"['Blender', 'Speech']"
+2073,melspec_614.npy,['Speech']
+2074,melspec_615.npy,['Speech']
+2075,melspec_616.npy,['Speech']
+2076,melspec_617.npy,['Speech']
+2077,melspec_618.npy,"['Dishes', 'Speech']"
+2078,melspec_619.npy,"['Running_water', 'Speech']"
+2079,melspec_62.npy,['Speech']
+2080,melspec_620.npy,['Speech']
+2081,melspec_621.npy,"['Dishes', 'Frying', 'Speech']"
+2082,melspec_622.npy,['Speech']
+2083,melspec_623.npy,['Speech']
+2084,melspec_624.npy,"['Frying', 'Speech']"
+2085,melspec_625.npy,['Speech']
+2086,melspec_626.npy,['Speech']
+2087,melspec_627.npy,['Speech']
+2088,melspec_628.npy,['Speech']
+2089,melspec_629.npy,"['Blender', 'Speech']"
+2090,melspec_63.npy,"['Running_water', 'Speech']"
+2091,melspec_630.npy,"['Running_water', 'Speech']"
+2092,melspec_631.npy,['Speech']
+2093,melspec_632.npy,"['Running_water', 'Speech']"
+2094,melspec_633.npy,"['Running_water', 'Speech']"
+2095,melspec_634.npy,"['Running_water', 'Speech']"
+2096,melspec_635.npy,['Speech']
+2097,melspec_636.npy,['Speech']
+2098,melspec_637.npy,['Speech']
+2099,melspec_638.npy,"['Frying', 'Speech']"
+2100,melspec_639.npy,"['Dishes', 'Speech']"
+2101,melspec_64.npy,"['Dishes', 'Frying', 'Speech']"
+2102,melspec_640.npy,['Speech']
+2103,melspec_641.npy,['Speech']
+2104,melspec_642.npy,"['Blender', 'Speech']"
+2105,melspec_643.npy,"['Dishes', 'Speech']"
+2106,melspec_644.npy,"['Dishes', 'Frying', 'Speech']"
+2107,melspec_645.npy,"['Frying', 'Speech']"
+2108,melspec_646.npy,"['Running_water', 'Speech']"
+2109,melspec_647.npy,"['Dishes', 'Speech']"
+2110,melspec_648.npy,['Speech']
+2111,melspec_649.npy,['Speech']
+2112,melspec_65.npy,['Speech']
+2113,melspec_650.npy,"['Running_water', 'Speech']"
+2114,melspec_651.npy,['Speech']
+2115,melspec_652.npy,"['Frying', 'Running_water', 'Speech']"
+2116,melspec_653.npy,"['Running_water', 'Speech']"
+2117,melspec_654.npy,"['Frying', 'Speech']"
+2118,melspec_655.npy,"['Dishes', 'Speech']"
+2119,melspec_656.npy,"['Blender', 'Speech']"
+2120,melspec_657.npy,['Speech']
+2121,melspec_658.npy,"['Dishes', 'Speech']"
+2122,melspec_659.npy,"['Running_water', 'Speech']"
+2123,melspec_66.npy,"['Dishes', 'Frying', 'Speech']"
+2124,melspec_660.npy,"['Frying', 'Speech']"
+2125,melspec_661.npy,"['Running_water', 'Speech']"
+2126,melspec_662.npy,['Speech']
+2127,melspec_663.npy,['Speech']
+2128,melspec_664.npy,"['Dishes', 'Speech']"
+2129,melspec_665.npy,"['Running_water', 'Speech']"
+2130,melspec_666.npy,"['Dishes', 'Running_water', 'Speech']"
+2131,melspec_667.npy,"['Dishes', 'Speech']"
+2132,melspec_668.npy,['Speech']
+2133,melspec_669.npy,"['Blender', 'Speech']"
+2134,melspec_67.npy,['Speech']
+2135,melspec_670.npy,['Speech']
+2136,melspec_671.npy,['Speech']
+2137,melspec_672.npy,"['Frying', 'Speech']"
+2138,melspec_673.npy,"['Dishes', 'Frying', 'Speech']"
+2139,melspec_674.npy,['Speech']
+2140,melspec_675.npy,"['Dishes', 'Speech']"
+2141,melspec_676.npy,"['Running_water', 'Speech']"
+2142,melspec_677.npy,"['Dishes', 'Speech']"
+2143,melspec_678.npy,['Speech']
+2144,melspec_679.npy,['Speech']
+2145,melspec_68.npy,"['Running_water', 'Speech']"
+2146,melspec_680.npy,"['Running_water', 'Speech']"
+2147,melspec_681.npy,['Speech']
+2148,melspec_682.npy,['Speech']
+2149,melspec_683.npy,"['Running_water', 'Speech']"
+2150,melspec_684.npy,['Speech']
+2151,melspec_685.npy,"['Running_water', 'Speech']"
+2152,melspec_686.npy,"['Running_water', 'Speech']"
+2153,melspec_687.npy,"['Blender', 'Speech']"
+2154,melspec_688.npy,['Speech']
+2155,melspec_689.npy,"['Running_water', 'Speech']"
+2156,melspec_69.npy,['Speech']
+2157,melspec_690.npy,['Speech']
+2158,melspec_691.npy,['Speech']
+2159,melspec_692.npy,"['Frying', 'Speech']"
+2160,melspec_693.npy,"['Blender', 'Speech']"
+2161,melspec_694.npy,"['Dishes', 'Speech']"
+2162,melspec_695.npy,['Speech']
+2163,melspec_696.npy,['Speech']
+2164,melspec_697.npy,"['Dishes', 'Speech']"
+2165,melspec_698.npy,['Speech']
+2166,melspec_699.npy,"['Running_water', 'Speech']"
+2167,melspec_7.npy,['Speech']
+2168,melspec_70.npy,"['Running_water', 'Speech']"
+2169,melspec_700.npy,"['Dishes', 'Frying', 'Speech']"
+2170,melspec_701.npy,"['Dishes', 'Frying', 'Speech']"
+2171,melspec_702.npy,['Speech']
+2172,melspec_703.npy,"['Blender', 'Speech']"
+2173,melspec_704.npy,['Speech']
+2174,melspec_705.npy,['Speech']
+2175,melspec_706.npy,"['Frying', 'Speech']"
+2176,melspec_707.npy,['Speech']
+2177,melspec_708.npy,"['Dishes', 'Frying', 'Speech']"
+2178,melspec_709.npy,"['Dishes', 'Frying', 'Speech']"
+2179,melspec_71.npy,['Speech']
+2180,melspec_710.npy,"['Dishes', 'Running_water', 'Speech']"
+2181,melspec_711.npy,"['Running_water', 'Speech']"
+2182,melspec_712.npy,"['Frying', 'Speech']"
+2183,melspec_713.npy,['Speech']
+2184,melspec_714.npy,['Speech']
+2185,melspec_715.npy,"['Running_water', 'Speech']"
+2186,melspec_716.npy,"['Dishes', 'Running_water', 'Speech']"
+2187,melspec_717.npy,"['Frying', 'Speech']"
+2188,melspec_718.npy,['Speech']
+2189,melspec_719.npy,['Speech']
+2190,melspec_72.npy,['Speech']
+2191,melspec_720.npy,['Speech']
+2192,melspec_721.npy,['Speech']
+2193,melspec_722.npy,['Speech']
+2194,melspec_723.npy,['Speech']
+2195,melspec_724.npy,"['Dishes', 'Speech']"
+2196,melspec_725.npy,"['Dishes', 'Frying', 'Speech']"
+2197,melspec_726.npy,"['Dishes', 'Frying', 'Speech']"
+2198,melspec_727.npy,['Speech']
+2199,melspec_728.npy,"['Running_water', 'Speech']"
+2200,melspec_729.npy,"['Speech', 'Vacuum_cleaner']"
+2201,melspec_73.npy,['Speech']
+2202,melspec_730.npy,['Speech']
+2203,melspec_731.npy,['Speech']
+2204,melspec_732.npy,"['Running_water', 'Speech']"
+2205,melspec_733.npy,"['Frying', 'Speech']"
+2206,melspec_734.npy,"['Dishes', 'Speech']"
+2207,melspec_735.npy,['Speech']
+2208,melspec_736.npy,"['Dishes', 'Speech']"
+2209,melspec_737.npy,['Speech']
+2210,melspec_738.npy,"['Blender', 'Speech']"
+2211,melspec_739.npy,['Speech']
+2212,melspec_74.npy,['Speech']
+2213,melspec_740.npy,['Speech']
+2214,melspec_741.npy,['Speech']
+2215,melspec_742.npy,"['Dishes', 'Speech']"
+2216,melspec_743.npy,['Speech']
+2217,melspec_744.npy,"['Dishes', 'Speech']"
+2218,melspec_745.npy,['Speech']
+2219,melspec_746.npy,"['Dishes', 'Speech']"
+2220,melspec_747.npy,"['Running_water', 'Speech']"
+2221,melspec_748.npy,"['Dishes', 'Speech']"
+2222,melspec_749.npy,['Speech']
+2223,melspec_75.npy,"['Dishes', 'Running_water', 'Speech']"
+2224,melspec_750.npy,"['Running_water', 'Speech']"
+2225,melspec_751.npy,"['Dishes', 'Speech']"
+2226,melspec_752.npy,"['Dishes', 'Speech']"
+2227,melspec_753.npy,"['Dishes', 'Speech']"
+2228,melspec_754.npy,"['Dishes', 'Frying', 'Speech']"
+2229,melspec_755.npy,['Speech']
+2230,melspec_756.npy,['Speech']
+2231,melspec_757.npy,"['Frying', 'Speech']"
+2232,melspec_758.npy,['Speech']
+2233,melspec_759.npy,"['Dishes', 'Speech']"
+2234,melspec_76.npy,"['Dishes', 'Speech']"
+2235,melspec_760.npy,['Speech']
+2236,melspec_761.npy,['Speech']
+2237,melspec_762.npy,"['Dishes', 'Speech']"
+2238,melspec_763.npy,"['Speech', 'Vacuum_cleaner']"
+2239,melspec_764.npy,['Speech']
+2240,melspec_765.npy,"['Running_water', 'Speech']"
+2241,melspec_766.npy,['Speech']
+2242,melspec_767.npy,"['Running_water', 'Speech']"
+2243,melspec_768.npy,"['Dishes', 'Speech']"
+2244,melspec_769.npy,['Speech']
+2245,melspec_77.npy,"['Dishes', 'Running_water', 'Speech']"
+2246,melspec_770.npy,"['Dishes', 'Speech']"
+2247,melspec_771.npy,"['Running_water', 'Speech']"
+2248,melspec_772.npy,['Speech']
+2249,melspec_773.npy,['Speech']
+2250,melspec_774.npy,"['Running_water', 'Speech']"
+2251,melspec_775.npy,['Speech']
+2252,melspec_776.npy,['Speech']
+2253,melspec_777.npy,['Speech']
+2254,melspec_778.npy,['Speech']
+2255,melspec_779.npy,"['Dishes', 'Speech']"
+2256,melspec_78.npy,"['Frying', 'Speech']"
+2257,melspec_780.npy,"['Dishes', 'Speech']"
+2258,melspec_781.npy,"['Dishes', 'Speech']"
+2259,melspec_782.npy,['Speech']
+2260,melspec_783.npy,"['Dishes', 'Frying', 'Speech']"
+2261,melspec_784.npy,['Speech']
+2262,melspec_785.npy,['Speech']
+2263,melspec_786.npy,['Speech']
+2264,melspec_787.npy,"['Running_water', 'Speech']"
+2265,melspec_788.npy,"['Running_water', 'Speech']"
+2266,melspec_789.npy,['Speech']
+2267,melspec_79.npy,['Speech']
+2268,melspec_790.npy,"['Running_water', 'Speech']"
+2269,melspec_791.npy,['Speech']
+2270,melspec_792.npy,"['Running_water', 'Speech']"
+2271,melspec_793.npy,"['Dishes', 'Frying', 'Speech']"
+2272,melspec_794.npy,"['Running_water', 'Speech']"
+2273,melspec_795.npy,"['Blender', 'Speech']"
+2274,melspec_796.npy,"['Dishes', 'Frying', 'Speech']"
+2275,melspec_797.npy,['Speech']
+2276,melspec_798.npy,"['Dishes', 'Speech']"
+2277,melspec_799.npy,['Speech']
+2278,melspec_8.npy,"['Running_water', 'Speech']"
+2279,melspec_80.npy,['Speech']
+2280,melspec_800.npy,['Speech']
+2281,melspec_801.npy,['Speech']
+2282,melspec_802.npy,"['Dishes', 'Speech']"
+2283,melspec_803.npy,"['Dishes', 'Speech']"
+2284,melspec_804.npy,"['Dishes', 'Speech']"
+2285,melspec_805.npy,"['Frying', 'Speech']"
+2286,melspec_806.npy,"['Frying', 'Speech']"
+2287,melspec_807.npy,"['Running_water', 'Speech']"
+2288,melspec_808.npy,"['Frying', 'Speech']"
+2289,melspec_809.npy,"['Dishes', 'Speech']"
+2290,melspec_81.npy,"['Running_water', 'Speech']"
+2291,melspec_810.npy,"['Frying', 'Speech']"
+2292,melspec_811.npy,"['Running_water', 'Speech']"
+2293,melspec_812.npy,"['Running_water', 'Speech']"
+2294,melspec_813.npy,"['Dishes', 'Speech']"
+2295,melspec_814.npy,['Speech']
+2296,melspec_815.npy,['Speech']
+2297,melspec_816.npy,"['Dishes', 'Speech']"
+2298,melspec_817.npy,"['Dishes', 'Frying', 'Speech']"
+2299,melspec_818.npy,['Speech']
+2300,melspec_819.npy,"['Dishes', 'Speech']"
+2301,melspec_82.npy,['Speech']
+2302,melspec_820.npy,['Speech']
+2303,melspec_821.npy,"['Running_water', 'Speech']"
+2304,melspec_822.npy,['Speech']
+2305,melspec_823.npy,"['Dishes', 'Running_water', 'Speech']"
+2306,melspec_824.npy,"['Running_water', 'Speech']"
+2307,melspec_825.npy,"['Dishes', 'Running_water', 'Speech']"
+2308,melspec_826.npy,['Speech']
+2309,melspec_827.npy,['Speech']
+2310,melspec_828.npy,['Speech']
+2311,melspec_829.npy,['Speech']
+2312,melspec_83.npy,"['Running_water', 'Speech']"
+2313,melspec_830.npy,"['Dishes', 'Speech']"
+2314,melspec_831.npy,"['Running_water', 'Speech']"
+2315,melspec_832.npy,['Speech']
+2316,melspec_833.npy,"['Running_water', 'Speech']"
+2317,melspec_834.npy,['Speech']
+2318,melspec_835.npy,"['Frying', 'Speech']"
+2319,melspec_836.npy,"['Dishes', 'Speech']"
+2320,melspec_837.npy,['Speech']
+2321,melspec_838.npy,"['Running_water', 'Speech']"
+2322,melspec_839.npy,"['Running_water', 'Speech']"
+2323,melspec_84.npy,"['Frying', 'Speech']"
+2324,melspec_840.npy,"['Frying', 'Speech']"
+2325,melspec_841.npy,['Speech']
+2326,melspec_842.npy,['Speech']
+2327,melspec_843.npy,['Speech']
+2328,melspec_844.npy,"['Frying', 'Speech']"
+2329,melspec_845.npy,['Speech']
+2330,melspec_846.npy,"['Running_water', 'Speech']"
+2331,melspec_847.npy,"['Frying', 'Speech']"
+2332,melspec_848.npy,"['Dishes', 'Speech']"
+2333,melspec_849.npy,['Speech']
+2334,melspec_85.npy,"['Running_water', 'Speech']"
+2335,melspec_850.npy,"['Dishes', 'Running_water', 'Speech']"
+2336,melspec_851.npy,"['Dishes', 'Speech']"
+2337,melspec_852.npy,"['Running_water', 'Speech']"
+2338,melspec_853.npy,['Speech']
+2339,melspec_854.npy,['Speech']
+2340,melspec_855.npy,['Speech']
+2341,melspec_856.npy,['Speech']
+2342,melspec_857.npy,"['Dishes', 'Speech']"
+2343,melspec_858.npy,"['Running_water', 'Speech']"
+2344,melspec_859.npy,['Speech']
+2345,melspec_86.npy,"['Running_water', 'Speech']"
+2346,melspec_860.npy,"['Dishes', 'Speech']"
+2347,melspec_861.npy,['Speech']
+2348,melspec_862.npy,['Speech']
+2349,melspec_863.npy,"['Frying', 'Speech']"
+2350,melspec_864.npy,"['Dishes', 'Speech']"
+2351,melspec_865.npy,['Speech']
+2352,melspec_866.npy,"['Frying', 'Speech']"
+2353,melspec_867.npy,['Speech']
+2354,melspec_868.npy,['Speech']
+2355,melspec_869.npy,['Speech']
+2356,melspec_87.npy,"['Frying', 'Speech']"
+2357,melspec_870.npy,['Speech']
+2358,melspec_871.npy,"['Dishes', 'Speech']"
+2359,melspec_872.npy,"['Dishes', 'Speech']"
+2360,melspec_873.npy,['Speech']
+2361,melspec_874.npy,"['Dishes', 'Speech']"
+2362,melspec_875.npy,"['Dishes', 'Frying', 'Speech']"
+2363,melspec_876.npy,['Speech']
+2364,melspec_877.npy,['Speech']
+2365,melspec_878.npy,"['Dishes', 'Running_water', 'Speech']"
+2366,melspec_879.npy,['Speech']
+2367,melspec_88.npy,['Speech']
+2368,melspec_880.npy,"['Dishes', 'Running_water', 'Speech']"
+2369,melspec_881.npy,['Speech']
+2370,melspec_882.npy,"['Frying', 'Speech']"
+2371,melspec_883.npy,"['Running_water', 'Speech']"
+2372,melspec_884.npy,['Speech']
+2373,melspec_885.npy,"['Dishes', 'Speech']"
+2374,melspec_886.npy,"['Blender', 'Running_water', 'Speech']"
+2375,melspec_887.npy,"['Dishes', 'Frying', 'Speech']"
+2376,melspec_888.npy,"['Frying', 'Speech']"
+2377,melspec_889.npy,"['Dishes', 'Running_water', 'Speech']"
+2378,melspec_89.npy,"['Dishes', 'Speech']"
+2379,melspec_890.npy,['Speech']
+2380,melspec_891.npy,['Speech']
+2381,melspec_892.npy,"['Running_water', 'Speech']"
+2382,melspec_893.npy,"['Running_water', 'Speech']"
+2383,melspec_894.npy,"['Dishes', 'Speech']"
+2384,melspec_895.npy,['Speech']
+2385,melspec_896.npy,"['Dishes', 'Speech']"
+2386,melspec_897.npy,"['Running_water', 'Speech']"
+2387,melspec_898.npy,['Speech']
+2388,melspec_899.npy,['Speech']
+2389,melspec_9.npy,"['Dishes', 'Frying', 'Speech']"
+2390,melspec_90.npy,"['Dishes', 'Speech']"
+2391,melspec_900.npy,"['Dishes', 'Frying', 'Speech']"
+2392,melspec_901.npy,['Speech']
+2393,melspec_902.npy,['Speech']
+2394,melspec_903.npy,['Speech']
+2395,melspec_904.npy,['Speech']
+2396,melspec_905.npy,['Speech']
+2397,melspec_906.npy,['Speech']
+2398,melspec_907.npy,"['Running_water', 'Speech']"
+2399,melspec_908.npy,['Speech']
+2400,melspec_909.npy,"['Frying', 'Speech']"
+2401,melspec_91.npy,"['Frying', 'Speech']"
+2402,melspec_910.npy,"['Running_water', 'Speech']"
+2403,melspec_911.npy,"['Dishes', 'Speech']"
+2404,melspec_912.npy,['Speech']
+2405,melspec_913.npy,['Speech']
+2406,melspec_914.npy,['Speech']
+2407,melspec_915.npy,"['Running_water', 'Speech']"
+2408,melspec_916.npy,"['Dishes', 'Speech']"
+2409,melspec_917.npy,['Speech']
+2410,melspec_918.npy,"['Frying', 'Speech']"
+2411,melspec_919.npy,['Speech']
+2412,melspec_92.npy,"['Blender', 'Speech']"
+2413,melspec_920.npy,['Speech']
+2414,melspec_921.npy,['Speech']
+2415,melspec_922.npy,['Speech']
+2416,melspec_923.npy,"['Dishes', 'Running_water', 'Speech']"
+2417,melspec_924.npy,"['Dishes', 'Speech']"
+2418,melspec_925.npy,['Speech']
+2419,melspec_926.npy,['Speech']
+2420,melspec_927.npy,['Speech']
+2421,melspec_928.npy,['Speech']
+2422,melspec_929.npy,"['Blender', 'Speech']"
+2423,melspec_93.npy,['Speech']
+2424,melspec_930.npy,['Speech']
+2425,melspec_931.npy,"['Dishes', 'Speech']"
+2426,melspec_932.npy,['Speech']
+2427,melspec_933.npy,['Speech']
+2428,melspec_934.npy,['Speech']
+2429,melspec_935.npy,['Speech']
+2430,melspec_936.npy,['Speech']
+2431,melspec_937.npy,['Speech']
+2432,melspec_938.npy,['Speech']
+2433,melspec_939.npy,"['Blender', 'Running_water', 'Speech']"
+2434,melspec_94.npy,"['Running_water', 'Speech']"
+2435,melspec_940.npy,['Speech']
+2436,melspec_941.npy,['Speech']
+2437,melspec_942.npy,"['Running_water', 'Speech']"
+2438,melspec_943.npy,['Speech']
+2439,melspec_944.npy,"['Dishes', 'Speech']"
+2440,melspec_945.npy,"['Dishes', 'Speech']"
+2441,melspec_946.npy,['Speech']
+2442,melspec_947.npy,"['Dishes', 'Speech']"
+2443,melspec_948.npy,"['Running_water', 'Speech']"
+2444,melspec_949.npy,['Speech']
+2445,melspec_95.npy,"['Dishes', 'Frying', 'Speech']"
+2446,melspec_950.npy,"['Dishes', 'Frying', 'Speech']"
+2447,melspec_951.npy,['Speech']
+2448,melspec_952.npy,"['Dishes', 'Running_water', 'Speech']"
+2449,melspec_953.npy,['Speech']
+2450,melspec_954.npy,"['Frying', 'Speech']"
+2451,melspec_955.npy,['Speech']
+2452,melspec_956.npy,['Speech']
+2453,melspec_957.npy,"['Dishes', 'Frying', 'Speech']"
+2454,melspec_958.npy,"['Running_water', 'Speech']"
+2455,melspec_959.npy,['Speech']
+2456,melspec_96.npy,"['Running_water', 'Speech']"
+2457,melspec_960.npy,['Speech']
+2458,melspec_961.npy,"['Frying', 'Speech']"
+2459,melspec_962.npy,"['Dishes', 'Speech']"
+2460,melspec_963.npy,['Speech']
+2461,melspec_964.npy,"['Running_water', 'Speech']"
+2462,melspec_965.npy,['Speech']
+2463,melspec_966.npy,"['Dishes', 'Frying', 'Speech']"
+2464,melspec_967.npy,"['Dishes', 'Speech']"
+2465,melspec_968.npy,"['Running_water', 'Speech']"
+2466,melspec_969.npy,"['Frying', 'Speech']"
+2467,melspec_97.npy,['Speech']
+2468,melspec_970.npy,"['Frying', 'Speech']"
+2469,melspec_971.npy,['Speech']
+2470,melspec_972.npy,"['Dishes', 'Frying', 'Speech']"
+2471,melspec_973.npy,['Speech']
+2472,melspec_974.npy,['Speech']
+2473,melspec_975.npy,"['Dishes', 'Speech']"
+2474,melspec_976.npy,['Speech']
+2475,melspec_977.npy,"['Dishes', 'Running_water', 'Speech']"
+2476,melspec_978.npy,"['Running_water', 'Speech']"
+2477,melspec_979.npy,['Speech']
+2478,melspec_98.npy,['Speech']
+2479,melspec_980.npy,"['Frying', 'Speech']"
+2480,melspec_981.npy,"['Running_water', 'Speech']"
+2481,melspec_982.npy,['Speech']
+2482,melspec_983.npy,['Speech']
+2483,melspec_984.npy,['Speech']
+2484,melspec_985.npy,"['Dishes', 'Speech']"
+2485,melspec_986.npy,"['Blender', 'Speech']"
+2486,melspec_987.npy,['Speech']
+2487,melspec_988.npy,['Speech']
+2488,melspec_989.npy,"['Dishes', 'Running_water', 'Speech']"
+2489,melspec_99.npy,"['Running_water', 'Speech']"
+2490,melspec_990.npy,['Speech']
+2491,melspec_991.npy,['Speech']
+2492,melspec_992.npy,['Speech']
+2493,melspec_993.npy,"['Blender', 'Running_water', 'Speech']"
+2494,melspec_994.npy,['Speech']
+2495,melspec_995.npy,"['Frying', 'Speech']"
+2496,melspec_996.npy,['Speech']
+2497,melspec_997.npy,['Speech']
+2498,melspec_998.npy,['Speech']
+2499,melspec_999.npy,"['Dishes', 'Speech']"
