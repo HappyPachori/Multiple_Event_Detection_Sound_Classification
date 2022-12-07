@@ -1,2 +1,2 @@
-# Multiple_Event_Detectio_Sound_Classification
+# Multiple_Event_Detection_Sound_Classification
 This repo contains my course assignment/project on Multi Event Detection, a sound classification problem done under Prof. Vipul Arora during the fall of 2022 at IITK. This repo contains all the ML models used to solve the problem along with the dataset used, predictions made by the models and the final report of the project containing all the necessary details. The dataset contains 10000 spectrograms and their labels.  Each spectrograms contain: number of channels = 1 nmels = 64 time frames = 1000
